@@ -5,43 +5,59 @@
 
 ---
 
-## FASE 0: PRERREQUISITOS (antes de preparar Internacion)
+## FASE 0: PRERREQUISITOS (2 — 6 abr) — CERRADA
 
-> Estas tareas son condiciones necesarias. Sin ellas no se puede avanzar.
+> 5 de 5 completados.
 
-| # | Tarea | Quien | Cuando | Que pasa si no | Estado |
-|---|-------|-------|--------|----------------|--------|
-| 1 | Confirmar enfermeria como area piloto, Lorena como referente | Lotty | 2 abr 2026 | Sin area definida no arranca nada | COMPLETADO |
-| 2 | Definir que documenta Lorena primero (procesos, reglas, excepciones) | Lotty + Lorena | 7 abr 2026 | Resultado: **TODO** (procesos, reglas, excepciones) | COMPLETADO |
-| 3 | Definir formato y frecuencia (estructura del .md, al final del turno, diario) | Lotty + Patricia | 6 abr 2026 | Resultado: **PLANTILLA-TURNO.md** + frecuencia **al final de cada turno** | COMPLETADO |
-| 4 | Crear repositorio de enfermeria en GitHub y agregar a GitPatriciaMontenegro | Pedro | 3 abr 2026 | Sin repo no hay donde subir | COMPLETADO |
-| 5 | Enfermeria (Lorena) confirmada como caso piloto para reglas de enfermeria | Lotty | 2 abr 2026 | --- | COMPLETADO |
-
-### Resumen de estado (6 abr 2026):
-- **5 de 5 COMPLETADOS** — todos los prerrequisitos resueltos
-- Lorena documenta: TODO (procesos, reglas, excepciones)
-- Formato: `PLANTILLA-TURNO.md` — se llena al final de cada turno
-- Frecuencia: al final de cada turno
-
-> **FASE 0 CERRADA.** Se puede avanzar a FASE 1 (preparacion).
+| # | Tarea | Estado |
+|---|-------|--------|
+| 1 | Confirmar enfermeria como area piloto, Lorena como referente | COMPLETADO |
+| 2 | Definir que documenta Lorena: **TODO** (procesos, reglas, excepciones) | COMPLETADO |
+| 3 | Definir formato (**PLANTILLA-TURNO.md**) y frecuencia (**al final de cada turno**) | COMPLETADO |
+| 4 | Crear repo GitHub + acceso Patricia | COMPLETADO |
+| 5 | Enfermeria confirmada como caso piloto | COMPLETADO |
 
 ---
 
-## FASE 1: PREPARACION (8 — 15 abr) — despues de resolver prerrequisitos
+## FASE 1: REGLAS GENERALES + PREPARACION (8 — 15 abr)
 
-> Solo se puede empezar esta fase cuando las tareas 2 y 3 de FASE 0 esten completas.
+> Antes de documentar por servicio, Lorena documenta las reglas que aplican a TODA enfermeria.
+> En paralelo se prepara la logistica para Internacion.
 
-| Dia habil | Fecha | Tarea | Responsable | Entregable | Hecho |
-|-----------|-------|-------|-------------|------------|-------|
-| 1 | mar 8 abr | Obtener lista completa de las 50 personas de internacion (nombres, turno, cargo) | Lotty | `lista-personal.md` | [ ] |
-| 2 | mie 9 abr | Preparar material/formularios basado en lo definido en tarea 2 y 3 | Patricia + Lorena | Archivos en esta carpeta | [ ] |
-| 3 | vie 11 abr | Coordinar logistica: horarios, sala, turnos para no afectar operacion | Lotty | `logistica.md` | [ ] |
-| 4 | lun 14 abr | Revision final del plan con Lotty — confirmar todo listo | Patricia + Lotty | Checklist firmado | [ ] |
-| 5 | mar 15 abr | Dia de colchon/imprevistos | --- | --- | [ ] |
+### Semana 1: Arranque + Reglas generales (8 — 11 abr)
+
+| Dia | Fecha | Tarea | Quien | Entregable | Hecho |
+|-----|-------|-------|-------|------------|-------|
+| mar | 8 abr | **Sesion de arranque con Lorena** — explicar que, como, cuando + primer ejemplo real | Lotty + Lorena | `ejemplo-lorena.md` en `00-reglas-generales/` | [ ] |
+| mar | 8 abr | Obtener lista de las 50 personas de Internacion | Lotty | `lista-personal.md` | [ ] |
+| mie | 9 abr | Lorena documenta reglas generales (dia 1) | Lorena | Archivos `regla-*.md` en `00-reglas-generales/` | [ ] |
+| vie | 11 abr | Lorena documenta reglas generales (dia 2) + coordinar logistica turnos | Lorena + Lotty | Mas archivos `regla-*.md` + `logistica.md` | [ ] |
+
+### Semana 2: Revision + Ajuste + Listo para arrancar (14 — 15 abr)
+
+| Dia | Fecha | Tarea | Quien | Entregable | Hecho |
+|-----|-------|-------|-------|------------|-------|
+| lun | 14 abr | **Lotty revisa calidad** de lo documentado por Lorena | Lotty | `CHECKLIST-REVISION.md` en `00-reglas-generales/` | [ ] |
+| mar | 15 abr | **Ajustar proceso** segun aprendizajes + confirmar todo listo para el 16 | Lotty + Lorena | Plantillas corregidas si hace falta | [ ] |
+
+> **Condicion para pasar a Fase 2:** Lotty marca "Lorena puede seguir asi" en el checklist de revision.
+
+### Archivos de soporte (ya creados en el repo)
+
+| Archivo | Donde | Para que |
+|---------|-------|---------|
+| `SESION-ARRANQUE.md` | `00-reglas-generales/` | Guia paso a paso para la sesion del 8 abr |
+| `PLANTILLA-REGLA.md` | `00-reglas-generales/` | Formato que Lorena copia para cada regla |
+| `ejemplo-llenado.md` | `00-reglas-generales/` | Ejemplo de como se ve una regla terminada |
+| `CHECKLIST-REVISION.md` | `00-reglas-generales/` | Lotty lo llena el 14 abr para evaluar calidad |
+| `PLANTILLA-TURNO.md` | `01-internacion/` | Registro diario al final de cada turno (desde el 16 abr) |
 
 ---
 
-## FASE 2: EJECUCION (16 abr — 1 may) — 2 semanas, ~10 dias habiles
+## FASE 2: EJECUCION INTERNACION (16 abr — 1 may) — 2 semanas, ~10 dias habiles
+
+> Lorena aplica lo aprendido en Fase 1, ahora documentando especificamente Internacion.
+> Usa PLANTILLA-TURNO.md al final de cada turno + PLANTILLA-REGLA.md para reglas de servicio.
 
 ### Semana 1 (16 — 22 abr): Primeros 25 personas
 
@@ -79,16 +95,3 @@
 
 > **Cada dia que pase, se registra evidencia en esta carpeta.**
 > Si no hay evidencia, no paso. Si hay bloqueo, se anota en `PENDIENTES.md`.
-
-## Archivos esperados en esta carpeta
-
-```
-evidencia/01-internacion/
-  PLAN-INTERNACION.md    <-- este archivo (plan maestro)
-  lista-personal.md      <-- nombres de las 50 personas
-  alcance.md             <-- que se hace con cada persona (sale de tarea 2)
-  logistica.md           <-- horarios, turnos, salas
-  avance-diario.md       <-- registro dia a dia
-  resultado.md           <-- consolidado final
-  lecciones.md           <-- que funciono, que no
-```
