@@ -1,63 +1,119 @@
-# Sesion de Arranque con Lorena — 8 abr 2026
+# Guia de Arranque — Reunion con Lorena (Lunes 7 abr)
 
-> Duracion estimada: 45-60 minutos
-> Participan: Lotty + Lorena (Patricia opcional)
-> Objetivo: Que Lorena salga de esta sesion sabiendo EXACTAMENTE que hacer y como
-
----
-
-## Agenda
-
-### 1. Contexto (5 min)
-- Explicar a Lorena por que se hace esto
-- "Vamos a documentar todo el conocimiento de enfermeria para que no se pierda"
-- Ella es la persona elegida para el piloto — su trabajo es clave
-
-### 2. Que va a documentar (10 min)
-Lorena documenta **TODO** lo que ve en su turno:
-
-| Categoria | Que significa | Ejemplo |
-|-----------|--------------|---------|
-| **Procesos** | Pasos que se siguen para hacer algo | Como se hace el cambio de turno, como se ingresa un paciente |
-| **Reglas** | Normas o protocolos que se deben cumplir | Lavado de manos antes de cada procedimiento, doble verificacion de medicamentos |
-| **Excepciones** | Cosas que pasan y no estan en ningun protocolo | Paciente que llega sin historia clinica y hay que actuar igual |
-
-### 3. Como lo documenta (10 min)
-- Mostrarle la **PLANTILLA-TURNO.md** (esta en el repo)
-- Explicar cada seccion con un ejemplo
-- Enfatizar: "No tiene que ser perfecto, tiene que ser REAL"
-- Tiempo esperado: **5-10 minutos al final de cada turno**
-
-### 4. Ejemplo real juntas (15 min)
-- Pedirle a Lorena que piense en su ULTIMO turno
-- Llenar la plantilla juntas en vivo
-- Este ejercicio se guarda como `ejemplo-lorena.md` — su primer documento real
-
-### 5. Logistica (5 min)
-- Donde se guardan los archivos: en esta carpeta del repo
-- Cada cuanto: al final de CADA turno
-- Si tiene dudas: preguntarle a Patricia o Lotty
-- **Meta de esta semana (8-11 abr):** documentar las reglas GENERALES que aplican a TODA enfermeria (no por servicio todavia)
-
-### 6. Primer commit juntas (5 min)
-- Guardar el ejemplo que llenaron como evidencia
-- Mostrarle que queda registrado en GitHub
+> **Objetivo:** Salir de la reunion con dos cosas claras: que documenta primero y como lo documenta.
+> **Duracion estimada:** 45-60 minutos
+> **Quien lleva esto:** Lotty
 
 ---
 
-## Checklist para Patricia — preparar ANTES de la sesion
+## Parte 1 — Que documenta primero (20 min)
 
-- [ ] Tener la PLANTILLA-TURNO.md impresa o en pantalla
-- [ ] Tener este documento (SESION-ARRANQUE.md) como guia
-- [ ] Tener acceso al repo en la computadora donde trabajaran
-- [ ] Preparar el ejemplo pre-llenado (ver `ejemplo-llenado.md`) por si Lorena se traba
+Estas preguntas guian la conversacion. No hay que hacerlas todas — son para orientar.
+
+### Preguntas para Lorena
+
+1. **Que es lo que mas te preguntan las enfermeras nuevas o las que reemplazan?**
+   *(Ahi esta el conocimiento mas urgente)*
+
+2. **Que pasa cuando alguien falta y no hay nadie que lo cubra bien?**
+   *(Eso es lo que mas duele y lo primero que hay que capturar)*
+
+3. **Hay reglas que "todo el mundo sabe" pero nunca estan escritas en ningun lado?**
+   *(Esas son las joyas — el conocimiento invisible)*
+
+4. **Que proceso, si lo hiciera mal alguien nuevo, tendria consecuencias serias?**
+   *(Prioridad maxima)*
+
+### Con eso, definir juntas:
+
+| Tema | Por que primero? |
+|------|-----------------|
+| | |
+| | |
+| | |
+
+> **Regla:** Empezar con 3 temas maximo. No todo a la vez.
 
 ---
 
-## Resultado esperado al salir de la sesion
+## Parte 2 — Como documenta (15 min)
 
-1. Lorena entiende QUE documenta (todo: procesos, reglas, excepciones)
-2. Lorena entiende COMO lo documenta (PLANTILLA-TURNO.md)
-3. Lorena entiende CUANDO lo documenta (al final de cada turno)
-4. Existe al menos 1 documento real llenado por Lorena (`ejemplo-lorena.md`)
-5. Lorena sabe que su meta de esta semana son las **reglas generales de enfermeria**
+### Formato de cada entrada diaria
+
+Cada vez que Lorena documente con Claude, el resultado sube al repo como un archivo `.md` con esta estructura:
+
+```
+# [Nombre del proceso o regla]
+
+**Area:** Enfermeria general
+**Fecha:** [fecha]
+**Documentado por:** Patricia Lorena Montenegro
+
+## Que es
+[Descripcion breve — que es este proceso o regla]
+
+## Cuando aplica
+[En que situaciones se usa]
+
+## Como se hace (paso a paso)
+1.
+2.
+3.
+
+## Excepciones y casos especiales
+[Lo que no esta en el manual pero "todo el mundo sabe"]
+
+## Quien lo sabe mejor si hay dudas
+[Persona de referencia]
+```
+
+### Frecuencia
+- **Cuando:** Al final de cada turno o jornada
+- **Cuanto:** 10-15 minutos con Claude — no mas
+- **Meta semana 1:** Al menos 1 documento por dia habil (mar, mie, vie)
+
+---
+
+## Parte 3 — Prompt base para usar con Claude (10 min)
+
+Lorena puede copiar y pegar esto en Claude para arrancar cada sesion:
+
+---
+
+> **Prompt base:**
+>
+> *"Hola, soy enfermera de la Clinica Foianini y estoy documentando el conocimiento institucional de enfermeria. Hoy quiero documentar [nombre del tema]. Te voy a contar como funciona y vos me ayudas a estructurarlo en un formato claro que sirva para que cualquier enfermera nueva entienda que hacer. Arrancamos con: [descripcion libre de lo que sabe]."*
+
+---
+
+> **Si quiere documentar una regla no escrita:**
+>
+> *"Hay una regla en enfermeria que todo el mundo sabe pero nunca esta escrita: [descripcion]. Ayudame a documentarla de forma clara, incluyendo cuando aplica, por que existe, y que pasa si no se cumple."*
+
+---
+
+## Parte 4 — Primer commit (sesion del martes 8)
+
+El martes 8, antes de que Lorena empiece a documentar sola:
+
+1. Abrir Claude juntas
+2. Elegir el primer tema de la lista definida el lunes
+3. Usar el prompt base — Lorena habla, Claude estructura
+4. Copiar el resultado al formato `.md`
+5. Subir al repo — primer commit real
+
+Esto le saca el miedo a la herramienta y le muestra el resultado en 15 minutos.
+
+---
+
+## Checklist del lunes
+
+- [ ] Lorena elige 3 temas para documentar primero
+- [ ] Formato de entrada acordado
+- [ ] Prompt base explicado y probado (aunque sea en papel)
+- [ ] Confirmar que tiene acceso al repo creado por Pedro
+- [ ] Hora del martes definida para sesion de arranque
+
+---
+
+*Preparado: 2 abr 2026. Lotty Paniagua.*
