@@ -12,18 +12,18 @@
 | # | Tarea | Quien | Cuando | Que pasa si no | Estado |
 |---|-------|-------|--------|----------------|--------|
 | 1 | Confirmar enfermeria como area piloto, Lorena como referente | Lotty | 2 abr 2026 | Sin area definida no arranca nada | COMPLETADO |
-| 2 | Definir que documenta Lorena primero (procesos, reglas, excepciones) | Lotty + Lorena | 7 abr 2026 — hoy 15:30 | Sin foco se documenta cualquier cosa y no sirve | HOY - EN CURSO |
-| 3 | Definir formato y frecuencia (estructura del .md, al final del turno, diario) | Lotty | 7 abr 2026 | Sin formato los documentos son inconsistentes | PENDIENTE |
+| 2 | Definir que documenta Lorena primero (procesos, reglas, excepciones) | Lotty + Lorena | 7 abr 2026 | Resultado: **TODO** (procesos, reglas, excepciones) | COMPLETADO |
+| 3 | Definir formato y frecuencia (estructura del .md, al final del turno, diario) | Lotty + Patricia | 6 abr 2026 | Resultado: **PLANTILLA-TURNO.md** + frecuencia **al final de cada turno** | COMPLETADO |
 | 4 | Crear repositorio de enfermeria en GitHub y agregar a GitPatriciaMontenegro | Pedro | 3 abr 2026 | Sin repo no hay donde subir | COMPLETADO |
 | 5 | Enfermeria (Lorena) confirmada como caso piloto para reglas de enfermeria | Lotty | 2 abr 2026 | --- | COMPLETADO |
 
 ### Resumen de estado (6 abr 2026):
-- **3 de 5 completados** (tareas 1, 4, 5)
-- **Tarea 2 — HOY a las 15:30** con Lotty: definir QUE documenta Lorena
-- **Tarea 3 — pendiente para 7 abr**: definir formato y frecuencia de los .md
+- **5 de 5 COMPLETADOS** — todos los prerrequisitos resueltos
+- Lorena documenta: TODO (procesos, reglas, excepciones)
+- Formato: `PLANTILLA-TURNO.md` — se llena al final de cada turno
+- Frecuencia: al final de cada turno
 
-> **CRITICO:** Las tareas 2 y 3 definen TODO lo que viene despues.
-> Sin saber QUE documentar y en QUE FORMATO, no se puede preparar material para las 50 personas.
+> **FASE 0 CERRADA.** Se puede avanzar a FASE 1 (preparacion).
 
 ---
 
