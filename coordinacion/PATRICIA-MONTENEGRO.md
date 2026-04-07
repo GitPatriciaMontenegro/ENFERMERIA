@@ -1,20 +1,31 @@
 # Patricia Lorena Montenegro — Coordinadora Enfermeria
 
-> **Rol:** Coordinadora del equipo de enfermeria — Clinica Foianini
-> **Repo:** GitPatriciaMontenegro/ENFERMERIA
-> **Participa en:** Piloto de documentacion con Claude
+> **Rol:** Referente documentadora — Area Enfermeria, Clinica Foianini
+> **GitHub:** GitPatriciaMontenegro
+> **Repo enfermeria:** GitPatriciaMontenegro/ENFERMERIA
+> **Repo central:** VITALIASALUD/foianini-documentacion-claude
+> **Entregable:** Conocimiento institucional de enfermeria documentado diariamente con Claude
 
 ---
 
-## Registro de sesiones
+## Contexto
 
-### Sesion 1 — Lunes 7 abr 2026 (16:56 hrs)
+Enfermeria tiene 169 personas y 39 anos de conocimiento no escrito (Maria Elena del Granado). Lorena es la referente designada para capturar ese conocimiento: procesos, reglas, excepciones, decisiones del dia a dia.
 
-**Tipo:** Reunion de arranque Fase 2
+Es el caso piloto del proyecto. Si funciona aca, se replica en otras areas.
+
+**Estructura de documentacion:**
+1. Primero: reglas generales y transversales a todo enfermeria
+2. Luego: ajuste y especificidades por servicio (en orden definido con Lotty)
+
+---
+
+## Sesion de arranque — 7 abr 2026 (16:56 hrs)
+
 **Presentes:** Lotty Paniagua (lider) + Lorena (coordinadora enfermeria)
 **Objetivo:** Definir que documenta Lorena primero y como lo hace
 
-#### Decisiones tomadas
+### Decisiones tomadas
 
 | # | Decision | Detalle |
 |---|----------|---------|
@@ -22,40 +33,127 @@
 | D2 | Frecuencia | Al final de cada turno |
 | D3 | Formato | PLANTILLA-REGLA.md (estructura estandar) |
 
-#### Temas prioritarios identificados por Lorena
+---
 
-Lorena identifico 5 temas criticos agrupados en 3 bloques:
+### Tema 1 — Manejo del sistema propio de la clinica
 
-| Prioridad | Tema | Detalle de Lorena | Riesgo |
-|-----------|------|-------------------|--------|
-| 1 | **Administracion de medicamentos** | Desde la preparacion hasta la administracion. Saber reconocer efectos adversos. Cualquier accion que genere dano al paciente | SEGURIDAD DEL PACIENTE |
-| 2 | **Rotacion, cobertura y reorganizacion de personal** | Rotacion de turnos y manejo del sistema. Reorganizacion de servicios cuando ocupacion es baja o nula. Reglas de doblaje. Licenciadas trabajan en 2 instituciones — dificil cubrirlas. Con auxiliares es mas facil. Lo critico: que las personas se consideren parte de la institucion | OPERATIVO |
-| 3 | **Reglas de gestion y consecuencias** | Personal definido por servicio pero NO las excepciones ni cuando se define personal extra. No hay escala de dependencia para evaluar pacientes internados. No estan escritas las repercusiones por conductas que generen costo adicional o incumplimiento. Ej: dejar vencer productos en un area que tuvo desabastecimiento | GESTION + COSTO |
+- Lo primero que preguntan todas las enfermeras nuevas o de reemplazo
+- El sistema es propio de la Clinica Foianini — nadie lo conoce antes de llegar
+- Tiene caracteristicas muy especificas que no estan documentadas
+- **Prioridad:** Alta — es el primer obstaculo de toda persona nueva
 
-#### Observaciones textuales de Lorena
+---
 
-> "Lo mas critico es que las personas se consideren como parte de la institucion"
+### Tema 2 — Protocolo de reorganizacion por baja ocupacion y doblaje de turno
 
-> "No esta instituida una escala de dependencia para evaluar a los pacientes internados que conlleve el personal extra"
+**Que pasa cuando alguien falta?**
+- Si la ocupacion es baja o nula en un area, se reorganizan los servicios
+- Si no es posible reorganizar, se busca un doblaje
 
-> "No tenemos escritas las repercusiones de una conducta que genere un costo adicional o incumplimiento a procesos de enfermeria"
+**Que es un doblaje?**
+- Duplicar un turno, o cubrir un turno con una persona externa al servicio
+- Con auxiliares: mas facil de conseguir
+- Con licenciadas: mas complicado — la mayoria trabaja en 2 instituciones
 
-> "Administracion de medicamentos en cualquiera de sus etapas desde la preparacion hasta la administracion y saber reconocer los efectos adversos"
+**Lo que no esta escrito — dimension cultural:**
+> "El mayor obstaculo del doblaje no es operativo, es cultural. Las enfermeras se identifican con su servicio, no con la institucion. El doblaje funciona cuando la persona entiende que el objetivo es de la clinica, no del area." — Patricia Montenegro, 7 abr 2026
 
-#### Plan de documentacion semana 1
+- **Prioridad:** Alta — es el mayor dolor operativo del area
 
-| Dia | Fecha | Tema a documentar | Responsable |
-|-----|-------|-------------------|-------------|
-| Martes | 8 abr | Administracion de medicamentos (sesion arranque con Claude) | Lotty + Lorena |
-| Miercoles | 9 abr | Rotacion, cobertura y reorganizacion de personal | Lorena |
-| Viernes | 11 abr | Reglas de gestion y consecuencias | Lorena |
-| Lunes | 14 abr | Revision de calidad de los 3 documentos | Lotty |
-| Martes | 15 abr | Ajuste de proceso segun aprendizajes | Lotty + Lorena |
+---
 
-#### Pendiente de esta sesion
+### Tema 3 — Dotacion de personal por servicio, turno y nivel de dependencia
 
-- [ ] Confirmar hora de sesion de arranque martes 8 abr
-- [ ] Confirmar acceso de Lorena al repo de GitHub
+**Lo que existe:**
+- La dotacion general "todo el mundo la sabe" pero no esta formalizada por escrito
+
+**Lo que NO existe — las excepciones:**
+- Que pasa si hay que ampliar 2 camas mas?
+- Que pasa si hay pacientes totalmente dependientes?
+- Que pasa si hay un paciente demandante?
+- Como se mide el nivel de dependencia de un paciente?
+- Cuando justifica un paciente personal extra en el servicio?
+
+**Hoy:** Se maneja por observacion y criterio personal en el momento. No hay criterio escrito.
+
+- **Prioridad:** Muy alta — es la base de todas las decisiones de personal
+
+---
+
+### Tema 4 — Consecuencias por omisiones y conductas incorrectas
+
+**Situacion actual:**
+- No existe nada escrito sobre repercusiones por errores u omisiones
+- Se evito documentar sanciones para no generar miedo al error
+- Resultado: los errores se repiten sin consecuencia
+
+**Caso real — 7 abr 2026:**
+- Productos vencidos en stock
+- Costo economico bajo, pero impacto institucional alto
+- Maria Elena y Patricia tuvieron que definir una accion en el momento, sin protocolo
+
+**Lo que falta escribir:**
+- Que conductas u omisiones tienen consecuencia
+- Que tipo de consecuencia (correccion, reporte, capacitacion, sancion)
+- Quien decide y quien aplica
+- Como se documenta el incidente
+
+- **Prioridad:** Urgente — caso real ocurrido hoy
+
+---
+
+### Tema 5 — Administracion de medicamentos
+
+- Desde la preparacion hasta la administracion
+- Saber reconocer los efectos adversos
+- Cualquier accion que genere dano al paciente
+- **Prioridad:** Critica — riesgo directo a seguridad del paciente
+
+---
+
+## Orden de documentacion propuesto
+
+| # | Tema | Prioridad | Dia propuesto |
+|---|------|-----------|---------------|
+| 1 | Administracion de medicamentos | Critica — seguridad del paciente | Mar 8 abr |
+| 2 | Dotacion de personal + excepciones + dependencia | Muy alta — base de todo | Mie 9 abr |
+| 3 | Protocolo de doblaje + cultura institucional | Alta — mayor dolor operativo | Vie 11 abr |
+| 4 | Consecuencias por omisiones | Urgente — caso real hoy | Semana 2 |
+| 5 | Manejo del sistema propio de la clinica | Alta — primer obstaculo | Semana 2 |
+
+---
+
+## Pendientes
+
+| # | Que | Quien | Cuando | Estado |
+|---|-----|-------|--------|--------|
+| 1 | Crear repo de enfermeria en GitHub | Pedro | 3 abr 2026 | COMPLETADO |
+| 2 | Definir que reglas generales documentar primero | Lorena + Lotty | 7 abr 2026 | COMPLETADO |
+| 3 | Primera sesion de arranque con Claude | Lotty | 8 abr 2026 | pendiente |
+| 4 | Primera semana de documentacion diaria | Lorena | 8-11 abr 2026 | pendiente |
+| 5 | Definir orden de servicios | Lorena + Lotty | 7 abr 2026 | COMPLETADO — cronograma aprobado con Patricia |
+
+---
+
+## Bloqueos
+
+| Bloqueo | Desde | Resuelto |
+|---------|-------|----------|
+| ~~Sin acceso al repo foianini-documentacion-claude~~ | 7 abr 2026 | Pedro agrego acceso el 6 abr 2026 |
+
+---
+
+## Standup diario
+
+Formato (3 lineas):
+1. Que complete hoy
+2. Que hare manana
+3. Que me bloquea (si nada, decir "sin bloqueo")
+
+### 7 abr 2026
+1. Reunion de arranque con Lotty: 5 temas identificados, orden definido, plan semanal armado
+2. Manana: sesion de arranque con Claude — documentar administracion de medicamentos
+3. Sin bloqueo
 
 ---
 
@@ -63,21 +161,18 @@ Lorena identifico 5 temas criticos agrupados en 3 bloques:
 
 | Fecha | Que se hizo | Evidencia |
 |-------|-------------|-----------|
-| 7 abr 2026 | Reunion de arranque: definidos 3 temas prioritarios + plan semanal | Esta acta |
-
-## Dudas
-
-- Escala de dependencia para pacientes internados: no existe — hay que crearla o documentar como se decide hoy sin ella
-- Repercusiones por incumplimiento: no estan escritas — hay que documentar que pasa hoy cuando ocurre
+| 7 abr 2026 | Reunion arranque: 5 temas prioritarios + plan semanal | ACTA-2026-04-07.md |
 
 ## Entregas esperadas
 
 | # | Entrega | Fecha limite | Estado |
 |---|---------|-------------|--------|
 | 1 | Documento: Administracion de medicamentos | 8 abr 2026 | pendiente |
-| 2 | Documento: Rotacion y cobertura de personal | 9 abr 2026 | pendiente |
-| 3 | Documento: Reglas de gestion y consecuencias | 11 abr 2026 | pendiente |
+| 2 | Documento: Dotacion de personal + dependencia | 9 abr 2026 | pendiente |
+| 3 | Documento: Protocolo de doblaje | 11 abr 2026 | pendiente |
+| 4 | Documento: Consecuencias por omisiones | Semana 2 | pendiente |
+| 5 | Documento: Manejo del sistema clinica | Semana 2 | pendiente |
 
 ---
 
-*Actualizado: 7 abr 2026 — Sesion con Lotty Paniagua.*
+*Actualizado: 7 abr 2026. Fusionado desde repo VITALIASALUD + sesion en vivo.*
