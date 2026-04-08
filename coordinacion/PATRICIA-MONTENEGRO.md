@@ -129,8 +129,8 @@ Es el caso piloto del proyecto. Si funciona aca, se replica en otras areas.
 |---|-----|-------|--------|--------|
 | 1 | Crear repo de enfermeria en GitHub | Pedro | 3 abr 2026 | COMPLETADO |
 | 2 | Definir que reglas generales documentar primero | Lorena + Lotty | 7 abr 2026 | COMPLETADO |
-| 3 | Primera sesion de arranque con Claude | Lotty | 8 abr 2026 | pendiente |
-| 4 | Primera semana de documentacion diaria | Lorena | 8-11 abr 2026 | pendiente |
+| 3 | Primera sesion de arranque con Claude | Lotty | 8 abr 2026 | COMPLETADO |
+| 4 | Primera semana de documentacion diaria | Lorena | 8-11 abr 2026 | EN CURSO — 1/3 temas |
 | 5 | Definir orden de servicios | Lorena + Lotty | 7 abr 2026 | COMPLETADO — cronograma aprobado con Patricia |
 
 ---
@@ -155,6 +155,11 @@ Formato (3 lineas):
 2. Manana: sesion de arranque con Claude — documentar administracion de medicamentos
 3. Sin bloqueo
 
+### 8 abr 2026
+1. Sesion de arranque completada: primer documento con Claude — Administracion de medicamentos
+2. Manana mie 9: documentar Rotacion, cobertura y reorganizacion de personal
+3. Sin bloqueo
+
 ---
 
 ## Avances
@@ -162,12 +167,13 @@ Formato (3 lineas):
 | Fecha | Que se hizo | Evidencia |
 |-------|-------------|-----------|
 | 7 abr 2026 | Reunion arranque: 5 temas prioritarios + plan semanal | ACTA-2026-04-07.md |
+| 8 abr 2026 | Primer documento: Administracion de medicamentos (6 etapas, 21 pasos, 2 riesgos criticos) | administracion-medicamentos.md |
 
 ## Entregas esperadas
 
 | # | Entrega | Fecha limite | Estado |
 |---|---------|-------------|--------|
-| 1 | Documento: Administracion de medicamentos | 8 abr 2026 | pendiente |
+| 1 | Documento: Administracion de medicamentos | 8 abr 2026 | COMPLETADO — administracion-medicamentos.md |
 | 2 | Documento: Dotacion de personal + dependencia | 9 abr 2026 | pendiente |
 | 3 | Documento: Protocolo de doblaje | 11 abr 2026 | pendiente |
 | 4 | Documento: Consecuencias por omisiones | Semana 2 | pendiente |
@@ -175,4 +181,4 @@ Formato (3 lineas):
 
 ---
 
-*Actualizado: 7 abr 2026. Fusionado desde repo VITALIASALUD + sesion en vivo.*
+*Actualizado: 8 abr 2026.*
