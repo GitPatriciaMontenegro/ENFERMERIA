@@ -96,4 +96,4 @@
 
 ---
 
-*Actualizado: 8 abr 2026. Lotty Paniagua + Patricia Montenegro.*
+*Actualizado: 9 abr 2026. Lotty Paniagua + Patricia Montenegro.*

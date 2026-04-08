@@ -64,11 +64,11 @@
 
 | Fecha | Que | Quien |
 |-------|-----|-------|
-| Mie 9 abr | Documentar: Rotacion, cobertura y reorganizacion de personal | Lorena |
-| Vie 11 abr | Documentar: Reglas de gestion y consecuencias | Lorena |
-| Lun 14 abr | Revisar calidad de los 3 documentos | Lotty |
+| Vie 11 abr | Documentar: Rotacion, cobertura y reorganizacion de personal | Lorena |
+| Lun 14 abr | Documentar: Reglas de gestion y consecuencias | Lorena |
+| Lun 14 abr | Revisar calidad de los documentos completados | Lotty |
 | Mar 15 abr | Reunion de ajuste con Lorena | Lotty + Lorena |
 
 ---
 
-*Actualizado: 8 abr 2026.*
+*Actualizado: 9 abr 2026.*

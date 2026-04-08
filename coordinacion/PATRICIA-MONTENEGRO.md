@@ -160,6 +160,11 @@ Formato (3 lineas):
 2. Manana mie 9: documentar Rotacion, cobertura y reorganizacion de personal
 3. Sin bloqueo
 
+### 9 abr 2026 (miercoles)
+1. Sesion de revision y actualizacion de documentos compartidos con Lotty y Pedro
+2. Viernes 11 abr: documentar Rotacion, cobertura y reorganizacion de personal
+3. Sin bloqueo
+
 ---
 
 ## Avances
@@ -174,11 +179,11 @@ Formato (3 lineas):
 | # | Entrega | Fecha limite | Estado |
 |---|---------|-------------|--------|
 | 1 | Documento: Administracion de medicamentos | 8 abr 2026 | COMPLETADO — administracion-medicamentos.md |
-| 2 | Documento: Dotacion de personal + dependencia | 9 abr 2026 | pendiente |
-| 3 | Documento: Protocolo de doblaje | 11 abr 2026 | pendiente |
+| 2 | Documento: Rotacion, cobertura y reorganizacion de personal | 11 abr 2026 | pendiente |
+| 3 | Documento: Reglas de gestion y consecuencias | 14 abr 2026 | pendiente |
 | 4 | Documento: Consecuencias por omisiones | Semana 2 | pendiente |
 | 5 | Documento: Manejo del sistema clinica | Semana 2 | pendiente |
 
 ---
 
-*Actualizado: 8 abr 2026.*
+*Actualizado: 9 abr 2026.*
