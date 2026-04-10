@@ -165,6 +165,11 @@ Formato (3 lineas):
 2. Viernes 11 abr: documentar Rotacion, cobertura y reorganizacion de personal
 3. Sin bloqueo
 
+### 11 abr 2026 (viernes)
+1. Segundo documento completado: Dotacion y rotacion de turnos — 4 pisos, 4 turnos, dotacion completa, datos de doble empleo
+2. Proxima sesion: Tema 3 — Reglas de gestion y consecuencias
+3. Sin bloqueo
+
 ---
 
 ## Avances
@@ -173,17 +178,28 @@ Formato (3 lineas):
 |-------|-------------|-----------|
 | 7 abr 2026 | Reunion arranque: 5 temas prioritarios + plan semanal | ACTA-2026-04-07.md |
 | 8 abr 2026 | Primer documento: Administracion de medicamentos (6 etapas, 21 pasos, 2 riesgos criticos) | administracion-medicamentos.md |
+| 11 abr 2026 | Segundo documento: Dotacion y rotacion de turnos (4 pisos, 4 turnos, 50 personas, 42% licenciadas con doble empleo) | dotacion-turnos-cobertura.md |
 
 ## Entregas esperadas
 
 | # | Entrega | Fecha limite | Estado |
 |---|---------|-------------|--------|
 | 1 | Documento: Administracion de medicamentos | 8 abr 2026 | COMPLETADO — administracion-medicamentos.md |
-| 2 | Documento: Rotacion, cobertura y reorganizacion de personal | 11 abr 2026 | pendiente |
-| 3 | Documento: Reglas de gestion y consecuencias | 14 abr 2026 | pendiente |
+| 2 | Documento: Dotacion, rotacion y cobertura de personal | 11 abr 2026 | COMPLETADO — dotacion-turnos-cobertura.md |
+| 3 | Documento: Reglas de gestion y consecuencias | Proxima sesion | pendiente |
 | 4 | Documento: Consecuencias por omisiones | Semana 2 | pendiente |
 | 5 | Documento: Manejo del sistema clinica | Semana 2 | pendiente |
 
+## Datos clave documentados hoy (11 abr)
+
+- Internacion General = 4 pisos (3ro B, 4to C, 5to C, 6to C)
+- 50 personas: 31 licenciadas + 19 auxiliares
+- 42% licenciadas trabajan en otra institucion (7 publica, 4 privada, 2 seguridad social)
+- Solo 16% auxiliares con doble empleo
+- 1 supervisora por turno decide reorganizaciones
+- No hay lista escrita de personal para doblajes
+- Si no hay cobertura, se sobrecarga otra area
+
 ---
 
-*Actualizado: 9 abr 2026.*
+*Actualizado: 11 abr 2026.*

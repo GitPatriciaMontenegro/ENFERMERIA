@@ -21,8 +21,8 @@
 
 | # | Que | Quien | Cuando | Que pasa si no | Estado |
 |---|-----|-------|--------|----------------|--------|
-| 1 | Sesion de arranque con Lorena: prompt base + ejemplo real + primer commit | Lotty | 8 abr 2026 | Sin sesion la herramienta no se usa bien | EN CURSO — administracion-medicamentos.md |
-| 2 | Documentar reglas generales y transversales a todo enfermeria (mar, mie, vie) | Lorena | 8-11 abr 2026 | Sin base general no se puede ajustar por servicio | EN CURSO — 1/3 temas documentados |
+| 1 | Sesion de arranque con Lorena: prompt base + ejemplo real + primer commit | Lotty | 8 abr 2026 | Sin sesion la herramienta no se usa bien | COMPLETADO — administracion-medicamentos.md |
+| 2 | Documentar reglas generales y transversales a todo enfermeria (mar, mie, vie) | Lorena | 8-11 abr 2026 | Sin base general no se puede ajustar por servicio | EN CURSO — 2/3 temas documentados |
 | 3 | Revisar calidad de lo documentado (es util? consultable?) | Lotty | 14 abr 2026 | Sin revision no hay aprendizaje | pendiente |
 | 4 | Ajustar proceso segun aprendizajes de semana 1 | Lotty + Lorena | 15 abr 2026 | Sin ajuste se perpetuan problemas | pendiente |
 
@@ -96,4 +96,4 @@
 
 ---
 
-*Actualizado: 9 abr 2026. Lotty Paniagua + Patricia Montenegro.*
+*Actualizado: 11 abr 2026. Lotty Paniagua + Patricia Montenegro.*

@@ -38,6 +38,7 @@
 | 2 abr | Confirmo enfermeria como area piloto y Lorena como referente |
 | 7 abr | Reunion con Lorena: 5 temas definidos, plan semanal armado |
 | 8 abr | Sesion de arranque completada: primer documento real con Claude |
+| 11 abr | Segundo documento completado: Dotacion y rotacion de turnos |
 
 ## Resultados sesion 8 abr
 
@@ -47,6 +48,16 @@
   1. No hay verificacion de dosis al momento de administrar
   2. Se administra sin matcheo de manilla en algunos casos
 - Archivo: `evidencia/00-reglas-generales/administracion-medicamentos.md`
+
+## Resultados sesion 11 abr
+
+- Segundo documento: **Dotacion y rotacion de turnos** — completo
+- 4 pisos de Internacion General documentados con dotacion por turno
+- Dato critico: 42% de licenciadas (13 de 31) trabajan en otra institucion
+- Detalle doble empleo: 7 en publica, 4 en privada, 2 en seguridad social
+- Auxiliares: solo 16% con doble empleo (3 de 19)
+- 4 riesgos identificados (no hay lista de doblajes, no hay protocolo de reorganizacion)
+- Archivo: `evidencia/00-reglas-generales/dotacion-turnos-cobertura.md`
 
 ## Dudas
 
@@ -59,16 +70,16 @@
 | 2 abr | Guia de arranque para sesion con Lorena |
 | 7 abr | Cronograma oficial 4 fases revisado con Patricia Montenegro |
 | 8 abr | Primer documento de Lorena: administracion de medicamentos |
+| 11 abr | Segundo documento de Lorena: dotacion y rotacion de turnos |
 
 ## Proximos pasos
 
 | Fecha | Que | Quien |
 |-------|-----|-------|
-| Vie 11 abr | Documentar: Rotacion, cobertura y reorganizacion de personal | Lorena |
-| Lun 14 abr | Documentar: Reglas de gestion y consecuencias | Lorena |
-| Lun 14 abr | Revisar calidad de los documentos completados | Lotty |
-| Mar 15 abr | Reunion de ajuste con Lorena | Lotty + Lorena |
+| Proxima sesion | Documentar: Reglas de gestion y consecuencias | Lorena |
+| 14 abr | Revisar calidad de los documentos completados (ya hay 2 de 3) | Lotty |
+| 15 abr | Reunion de ajuste con Lorena | Lotty + Lorena |
 
 ---
 
-*Actualizado: 9 abr 2026.*
+*Actualizado: 11 abr 2026.*
