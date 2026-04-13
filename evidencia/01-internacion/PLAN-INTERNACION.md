@@ -29,7 +29,7 @@
 | Dia | Fecha | Tarea | Quien | Entregable | Que pasa si no | Hecho |
 |-----|-------|-------|-------|------------|----------------|-------|
 | mar | 8 abr | **Sesion de arranque con Lorena** — primer documento real con Claude | Lotty + Lorena | `administracion-medicamentos.md` | Sin sesion la herramienta no se usa bien | [x] |
-| mar | 8 abr | Obtener lista de las 50 personas de Internacion | Lotty | `lista-personal.md` | Sin lista no se puede planificar por grupos | [ ] |
+| mar | 8 abr | Obtener lista de las 50 personas de Internacion | Lotty | `lista-personal.md` | Sin lista no se puede planificar por grupos | [x] |
 | mie | 9 abr | Lorena documenta reglas generales (dia 1) — Revision y actualizacion docs compartidos | Lorena | Standups al dia | Sin revision los docs quedan desincronizados | [x] |
 | vie | 11 abr | Lorena documenta reglas generales (dia 2) — Dotacion y rotacion de turnos | Lorena + Lotty | `dotacion-turnos-cobertura.md` | Sin dotacion documentada no se sabe como cubrir turnos | [x] |
 | lun | 14 abr | Lorena documenta reglas generales (dia 3) — Reglas de gestion y consecuencias | Lorena | `reglas-gestion-consecuencias.md` | Los errores se repiten sin consecuencia | [x] |
