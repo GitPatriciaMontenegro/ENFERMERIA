@@ -123,6 +123,14 @@ Es el caso piloto del proyecto. Si funciona aca, se replica en otras areas.
 
 ---
 
+## Documentos completados — FASE 2 CERRADA (3/3)
+
+| # | Documento | Fecha | Evidencia | Datos clave |
+|---|-----------|-------|-----------|-------------|
+| 1 | Administracion de medicamentos | 8 abr | administracion-medicamentos.md | 6 etapas, 21 pasos, 2 riesgos criticos |
+| 2 | Dotacion y rotacion de turnos | 11 abr | dotacion-turnos-cobertura.md | 4 pisos, 4 turnos, 50 personas, 42% licenciadas doble empleo |
+| 3 | Reglas de gestion y consecuencias | 14 abr | reglas-gestion-consecuencias.md | Marco 3 categorias, caso real producto vencido, 5 riesgos |
+
 ## Pendientes
 
 | # | Que | Quien | Cuando | Estado |
@@ -130,8 +138,12 @@ Es el caso piloto del proyecto. Si funciona aca, se replica en otras areas.
 | 1 | Crear repo de enfermeria en GitHub | Pedro | 3 abr 2026 | COMPLETADO |
 | 2 | Definir que reglas generales documentar primero | Lorena + Lotty | 7 abr 2026 | COMPLETADO |
 | 3 | Primera sesion de arranque con Claude | Lotty | 8 abr 2026 | COMPLETADO |
-| 4 | Primera semana de documentacion diaria | Lorena | 8-11 abr 2026 | EN CURSO — 1/3 temas |
-| 5 | Definir orden de servicios | Lorena + Lotty | 7 abr 2026 | COMPLETADO — cronograma aprobado con Patricia |
+| 4 | Documentacion reglas generales (3 temas) | Lorena | 8-14 abr 2026 | COMPLETADO — 3/3 |
+| 5 | Definir orden de servicios | Lorena + Lotty | 7 abr 2026 | COMPLETADO |
+| 6 | Agregar columna "que pasa si no" en PLAN-INTERNACION.md | Lorena | 14 abr | COMPLETADO |
+| 7 | Revision de calidad (Lotty) | Lotty | 14 abr 2026 | PENDIENTE |
+| 8 | Ajuste del proceso | Lotty + Lorena | 15 abr 2026 | PENDIENTE |
+| 9 | Arrancar documentacion Internacion | Lorena | 16 abr 2026 | PENDIENTE |
 
 ---
 
@@ -170,36 +182,23 @@ Formato (3 lineas):
 2. Proxima sesion: Tema 3 — Reglas de gestion y consecuencias
 3. Sin bloqueo
 
+### 14 abr 2026
+1. Tercer documento completado: Reglas de gestion, escala de dependencia y consecuencias. Marco de 3 categorias, caso real producto vencido, 5 riesgos. FASE 2 COMPLETADA (3/3 temas)
+2. Correccion observacion Pedro/Lotty: columna "que pasa si no" agregada a PLAN-INTERNACION.md
+3. Sin bloqueo
+
 ---
 
 ## Avances
 
 | Fecha | Que se hizo | Evidencia |
 |-------|-------------|-----------|
-| 7 abr 2026 | Reunion arranque: 5 temas prioritarios + plan semanal | ACTA-2026-04-07.md |
-| 8 abr 2026 | Primer documento: Administracion de medicamentos (6 etapas, 21 pasos, 2 riesgos criticos) | administracion-medicamentos.md |
-| 11 abr 2026 | Segundo documento: Dotacion y rotacion de turnos (4 pisos, 4 turnos, 50 personas, 42% licenciadas con doble empleo) | dotacion-turnos-cobertura.md |
-
-## Entregas esperadas
-
-| # | Entrega | Fecha limite | Estado |
-|---|---------|-------------|--------|
-| 1 | Documento: Administracion de medicamentos | 8 abr 2026 | COMPLETADO — administracion-medicamentos.md |
-| 2 | Documento: Dotacion, rotacion y cobertura de personal | 11 abr 2026 | COMPLETADO — dotacion-turnos-cobertura.md |
-| 3 | Documento: Reglas de gestion y consecuencias | Proxima sesion | pendiente |
-| 4 | Documento: Consecuencias por omisiones | Semana 2 | pendiente |
-| 5 | Documento: Manejo del sistema clinica | Semana 2 | pendiente |
-
-## Datos clave documentados hoy (11 abr)
-
-- Internacion General = 4 pisos (3ro B, 4to C, 5to C, 6to C)
-- 50 personas: 31 licenciadas + 19 auxiliares
-- 42% licenciadas trabajan en otra institucion (7 publica, 4 privada, 2 seguridad social)
-- Solo 16% auxiliares con doble empleo
-- 1 supervisora por turno decide reorganizaciones
-- No hay lista escrita de personal para doblajes
-- Si no hay cobertura, se sobrecarga otra area
+| 7 abr | Reunion arranque: 5 temas prioritarios + plan semanal | ACTA-2026-04-07.md |
+| 8 abr | Primer documento: Administracion de medicamentos | administracion-medicamentos.md |
+| 11 abr | Segundo documento: Dotacion y rotacion de turnos | dotacion-turnos-cobertura.md |
+| 14 abr | Tercer documento: Reglas de gestion y consecuencias. FASE 2 COMPLETADA | reglas-gestion-consecuencias.md |
+| 14 abr | Correccion PLAN-INTERNACION.md: columna "que pasa si no" agregada | PLAN-INTERNACION.md |
 
 ---
 
-*Actualizado: 11 abr 2026.*
+*Actualizado: 14 abr 2026.*

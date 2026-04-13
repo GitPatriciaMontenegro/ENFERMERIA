@@ -31,6 +31,23 @@
 
 ---
 
+## FASE 2 COMPLETADA — 3/3 documentos (14 abr 2026)
+
+| # | Documento | Fecha | Datos clave |
+|---|-----------|-------|-------------|
+| 1 | Administracion de medicamentos | 8 abr | 6 etapas, 21 pasos, 2 riesgos criticos |
+| 2 | Dotacion y rotacion de turnos | 11 abr | 4 pisos, 50 personas, 42% licenciadas doble empleo |
+| 3 | Reglas de gestion y consecuencias | 14 abr | Marco 3 categorias, caso real producto vencido, 5 riesgos |
+
+### Hallazgos criticos
+
+- 42% de licenciadas (13 de 31) trabajan en otra institucion
+- No hay verificacion de dosis al administrar — riesgo directo al paciente
+- No hay lista escrita de personal para doblajes
+- No hay escala de dependencia formal
+- No hay criterio escrito evento-sancion
+- Sistema de reportes "no punitivo" genera ambiguedad
+
 ## Avances
 
 | Fecha | Que se hizo |
@@ -39,6 +56,8 @@
 | 7 abr | Reunion con Lorena: 5 temas definidos, plan semanal armado |
 | 8 abr | Sesion de arranque completada: primer documento real con Claude |
 | 11 abr | Segundo documento completado: Dotacion y rotacion de turnos |
+| 14 abr | Tercer documento completado: Reglas de gestion y consecuencias. FASE 2 COMPLETADA |
+| 14 abr | Correccion PLAN-INTERNACION.md: columna "que pasa si no" agregada (observacion Pedro) |
 
 ## Resultados sesion 8 abr
 
@@ -76,10 +95,10 @@
 
 | Fecha | Que | Quien |
 |-------|-----|-------|
-| Proxima sesion | Documentar: Reglas de gestion y consecuencias | Lorena |
-| 14 abr | Revisar calidad de los documentos completados (ya hay 2 de 3) | Lotty |
+| 14 abr | Revisar calidad de los 3 documentos completados | Lotty |
 | 15 abr | Reunion de ajuste con Lorena | Lotty + Lorena |
+| 16 abr | ARRANCA INTERNACION — documentacion por servicio | Lorena |
 
 ---
 
-*Actualizado: 11 abr 2026.*
+*Actualizado: 14 abr 2026.*

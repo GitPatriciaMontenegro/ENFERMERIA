@@ -26,19 +26,20 @@
 
 ### Semana 1: Arranque + Reglas generales (8 — 11 abr)
 
-| Dia | Fecha | Tarea | Quien | Entregable | Hecho |
-|-----|-------|-------|-------|------------|-------|
-| mar | 8 abr | **Sesion de arranque con Lorena** — explicar que, como, cuando + primer ejemplo real | Lotty + Lorena | `ejemplo-lorena.md` en `00-reglas-generales/` | [ ] |
-| mar | 8 abr | Obtener lista de las 50 personas de Internacion | Lotty | `lista-personal.md` | [ ] |
-| mie | 9 abr | Lorena documenta reglas generales (dia 1) | Lorena | Archivos `regla-*.md` en `00-reglas-generales/` | [ ] |
-| vie | 11 abr | Lorena documenta reglas generales (dia 2) + coordinar logistica turnos | Lorena + Lotty | Mas archivos `regla-*.md` + `logistica.md` | [ ] |
+| Dia | Fecha | Tarea | Quien | Entregable | Que pasa si no | Hecho |
+|-----|-------|-------|-------|------------|----------------|-------|
+| mar | 8 abr | **Sesion de arranque con Lorena** — primer documento real con Claude | Lotty + Lorena | `administracion-medicamentos.md` | Sin sesion la herramienta no se usa bien | [x] |
+| mar | 8 abr | Obtener lista de las 50 personas de Internacion | Lotty | `lista-personal.md` | Sin lista no se puede planificar por grupos | [ ] |
+| mie | 9 abr | Lorena documenta reglas generales (dia 1) — Revision y actualizacion docs compartidos | Lorena | Standups al dia | Sin revision los docs quedan desincronizados | [x] |
+| vie | 11 abr | Lorena documenta reglas generales (dia 2) — Dotacion y rotacion de turnos | Lorena + Lotty | `dotacion-turnos-cobertura.md` | Sin dotacion documentada no se sabe como cubrir turnos | [x] |
+| lun | 14 abr | Lorena documenta reglas generales (dia 3) — Reglas de gestion y consecuencias | Lorena | `reglas-gestion-consecuencias.md` | Los errores se repiten sin consecuencia | [x] |
 
 ### Semana 2: Revision + Ajuste + Listo para arrancar (14 — 15 abr)
 
-| Dia | Fecha | Tarea | Quien | Entregable | Hecho |
-|-----|-------|-------|-------|------------|-------|
-| lun | 14 abr | **Lotty revisa calidad** de lo documentado por Lorena | Lotty | `CHECKLIST-REVISION.md` en `00-reglas-generales/` | [ ] |
-| mar | 15 abr | **Ajustar proceso** segun aprendizajes + confirmar todo listo para el 16 | Lotty + Lorena | Plantillas corregidas si hace falta | [ ] |
+| Dia | Fecha | Tarea | Quien | Entregable | Que pasa si no | Hecho |
+|-----|-------|-------|-------|------------|----------------|-------|
+| lun | 14 abr | **Lotty revisa calidad** de lo documentado por Lorena | Lotty | `CHECKLIST-REVISION.md` | Sin revision no hay aprendizaje ni mejora | [ ] |
+| mar | 15 abr | **Ajustar proceso** segun aprendizajes + confirmar todo listo para el 16 | Lotty + Lorena | Plantillas corregidas si hace falta | Sin ajuste se perpetuan problemas en Fase 2 | [ ] |
 
 > **Condicion para pasar a Fase 2:** Lotty marca "Lorena puede seguir asi" en el checklist de revision.
 
@@ -61,33 +62,33 @@
 
 ### Semana 1 (16 — 22 abr): Primeros 25 personas
 
-| Dia habil | Fecha | Meta | Hecho |
-|-----------|-------|------|-------|
-| 1 | mie 16 abr | INICIO — Grupo 1 (~8 personas) | [ ] |
-| 2 | vie 18 abr | Grupo 2 (~8 personas) | [ ] |
-| 3 | lun 21 abr | Grupo 3 (~9 personas) | [ ] |
-| 4 | mar 22 abr | Corte semana 1 — revisar avance, ajustar si es necesario | [ ] |
+| Dia habil | Fecha | Meta | Que pasa si no | Hecho |
+|-----------|-------|------|----------------|-------|
+| 1 | mie 16 abr | INICIO — Grupo 1 (~8 personas) | Sin arranque no hay piloto por servicio | [ ] |
+| 2 | vie 18 abr | Grupo 2 (~8 personas) | Se acumula trabajo para la semana 2 | [ ] |
+| 3 | lun 21 abr | Grupo 3 (~9 personas) | Se pierde el ritmo y la meta de 50 personas | [ ] |
+| 4 | mar 22 abr | Corte semana 1 — revisar avance, ajustar si es necesario | Sin revision a tiempo no se corrige el rumbo | [ ] |
 
 ### Semana 2 (23 abr — 1 may): Siguientes 25 personas
 
-| Dia habil | Fecha | Meta | Hecho |
-|-----------|-------|------|-------|
-| 5 | mie 23 abr | Grupo 4 (~8 personas) | [ ] |
-| 6 | vie 25 abr | Grupo 5 (~8 personas) | [ ] |
-| 7 | lun 28 abr | Grupo 6 (~9 personas) | [ ] |
-| 8 | mar 29 abr | Grupo 7 — ultimos pendientes | [ ] |
-| 9 | mie 30 abr | Cierre y revision de datos | [ ] |
-| 10 | jue 1 may | **FERIADO** — colchon, solo si es necesario | [ ] |
+| Dia habil | Fecha | Meta | Que pasa si no | Hecho |
+|-----------|-------|------|----------------|-------|
+| 5 | mie 23 abr | Grupo 4 (~8 personas) | Se retrasa el cierre de Internacion | [ ] |
+| 6 | vie 25 abr | Grupo 5 (~8 personas) | Se compromete la fecha de inicio de UCI Adulto | [ ] |
+| 7 | lun 28 abr | Grupo 6 (~9 personas) | Quedan personas sin documentar | [ ] |
+| 8 | mar 29 abr | Grupo 7 — ultimos pendientes | Se pierde evidencia de las ultimas personas | [ ] |
+| 9 | mie 30 abr | Cierre y revision de datos | Sin cierre formal no hay aprendizaje para UCI Adulto | [ ] |
+| 10 | jue 1 may | **FERIADO** — colchon, solo si es necesario | --- | [ ] |
 
 ---
 
 ## FASE 3: CIERRE (1 — 2 may)
 
-| Tarea | Responsable | Entregable |
-|-------|-------------|------------|
-| Consolidar resultados de las 50 personas | Patricia | `resultado.md` |
-| Documentar lecciones aprendidas | Lotty + Patricia | `lecciones.md` |
-| Decidir si la metodologia sirve para UCI Adulto (servicio #2) | Patricia + Pedro | Registro en `decisiones/` |
+| Tarea | Responsable | Entregable | Que pasa si no |
+|-------|-------------|------------|----------------|
+| Consolidar resultados de las 50 personas | Patricia | `resultado.md` | Sin consolidacion no se sabe que se logro |
+| Documentar lecciones aprendidas | Lotty + Patricia | `lecciones.md` | Se repiten los mismos errores en UCI Adulto |
+| Decidir si la metodologia sirve para UCI Adulto (servicio #2) | Patricia + Pedro | Registro en `decisiones/` | Sin decision no se sabe si continuar o ajustar |
 
 ---
 
