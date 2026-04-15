@@ -158,10 +158,13 @@ Patricia propuso analizar los eventos con 3 categorias:
 
 | Que se analiza | Accion |
 |----------------|--------|
-| El evento fue por problemas personales que afectan el bienestar? | **No esta claro que hacer** |
-| Hay apoyo emocional o psicologico disponible? | No documentado |
+| El evento fue por problemas personales o carga emocional que afectan el desempeno? | Derivar a **Espacios de Contencion** |
+| Las psicologas elaboran un plan de accion? | SI — es parte del proceso |
+| A quien informan las psicologas? | **Informe formal a Gestion de Personas + Lorena/Maria Elena del Granado** |
 
-**Estado:** Esta categoria no tiene acciones definidas.
+**Estado:** RESUELTO — 15 abr 2026 (Lotty Paniagua)
+
+> Proceso: el lider detecta la situacion → deriva a Espacios de Contencion → psicologas acompanan a la persona y elaboran plan de accion → psicologas emiten informe a Gestion de Personas y a la coordinacion de enfermeria (Lorena / Maria Elena del Granado).
 
 ### Quienes participan en las decisiones
 
@@ -200,7 +203,7 @@ Patricia propuso analizar los eventos con 3 categorias:
 | 1 | No hay escala de dependencia formal — se evalua por experiencia | MEDIO |
 | 2 | No hay criterio escrito que relacione tipo de evento con tipo de sancion | ALTO |
 | 3 | Las recomendaciones verbales no quedan registradas | MEDIO |
-| 4 | La categoria 3 (problemas personales/emocionales) no tiene acciones definidas | MEDIO |
+| 4 | La categoria 3 (problemas personales/emocionales) no tiene acciones definidas | ~~MEDIO~~ RESUELTO — derivar a Espacios de Contencion + informe psicologas |
 | 5 | El mensaje "no punitivo" del sistema de reportes genera ambiguedad para aplicar consecuencias | ALTO |
 
 ---

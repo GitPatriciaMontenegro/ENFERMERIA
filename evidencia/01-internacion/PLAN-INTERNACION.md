@@ -38,8 +38,8 @@
 
 | Dia | Fecha | Tarea | Quien | Entregable | Que pasa si no | Hecho |
 |-----|-------|-------|-------|------------|----------------|-------|
-| lun | 14 abr | **Lotty revisa calidad** de lo documentado por Lorena | Lotty | `CHECKLIST-REVISION.md` | Sin revision no hay aprendizaje ni mejora | [ ] |
-| mar | 15 abr | **Ajustar proceso** segun aprendizajes + confirmar todo listo para el 16 | Lotty + Lorena | Plantillas corregidas si hace falta | Sin ajuste se perpetuan problemas en Fase 2 | [ ] |
+| lun | 14 abr | **Lotty revisa calidad** de lo documentado por Lorena | Lotty | `CHECKLIST-REVISION.md` | Sin revision no hay aprendizaje ni mejora | [x] |
+| mar | 15 abr | **Ajustar proceso** segun aprendizajes + confirmar todo listo para el 16 | Lotty + Lorena | Plantillas corregidas si hace falta | Sin ajuste se perpetuan problemas en Fase 2 | [x] |
 
 > **Condicion para pasar a Fase 2:** Lotty marca "Lorena puede seguir asi" en el checklist de revision.
 
