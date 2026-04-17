@@ -56,9 +56,15 @@ Proceso completo de medicacion al paciente hospitalizado: desde que el medico ge
 | Paso | Que pasa | Quien | Donde |
 |------|----------|-------|-------|
 | 13 | Ingresa a la habitacion con el carro de medicacion preparada | Enfermera de turno | Habitacion del paciente |
-| 14 | Realiza check con la manilla identificatoria del paciente (matcheo paciente-medicamento) | Enfermera de turno | Junto al paciente |
+| 14 | Realiza check con la manilla identificatoria del paciente (matcheo paciente-medicamento) — **el matcheo deja el registro en el sistema** | Enfermera de turno | Junto al paciente |
 | 15 | Verifica: paciente correcto, medicamento correcto | Enfermera de turno | Junto al paciente |
 | 16 | Administra el medicamento | Enfermera de turno | Junto al paciente |
+
+### Registro en el sistema
+
+- El registro de la administracion **queda automaticamente** al momento del matcheo entre el medicamento y la manilla identificatoria del paciente (paso 14).
+- No hay un paso manual adicional posterior a la administracion: el matcheo ES el registro.
+- Implicacion: si no se hace el matcheo de manilla, **no queda registro de la administracion** — ver Riesgo 2.
 
 ### Etapa 6 — Efectos adversos
 

@@ -8,16 +8,21 @@ Estas preguntas surgieron de la revision de calidad del 15 abr. Patricia debe re
 
 | # | Pregunta | Documento | Quien responde | Estado |
 |---|----------|-----------|----------------|--------|
-| P1 | Despues de administrar el medicamento, la enfermera lo registra en el sistema de la clinica? Si es asi, como se hace y en que momento exactamente? | `administracion-medicamentos.md` | Patricia (Lorena) | PENDIENTE |
-| P2 | Existe un rol semanal o diario escrito (papel, excel, pizarron, sistema) que dice quien trabaja en que piso cada dia? Como se comunica a las enfermeras? Con cuanta anticipacion lo saben? | `dotacion-turnos-cobertura.md` | Patricia (Lorena) | PENDIENTE |
+| P1 | Despues de administrar el medicamento, la enfermera lo registra en el sistema de la clinica? Si es asi, como se hace y en que momento exactamente? | `administracion-medicamentos.md` | Patricia (Lorena) | CERRADA — 17 abr 2026 |
+| P2 | Existe un rol semanal o diario escrito (papel, excel, pizarron, sistema) que dice quien trabaja en que piso cada dia? Como se comunica a las enfermeras? Con cuanta anticipacion lo saben? | `dotacion-turnos-cobertura.md` | Patricia (Lorena) | CERRADA — 17 abr 2026 |
 
-> Una vez respondidas, incorporar directamente en el documento correspondiente y cerrar aqui.
+### Respuestas (17 abr 2026 — Patricia)
+
+- **P1:** El registro queda al realizar el matcheo entre el medicamento y la manilla identificatoria del paciente (paso 14 de Etapa 5). No hay paso manual adicional posterior. Incorporado en `evidencia/00-reglas-generales/administracion-medicamentos.md`.
+- **P2:** No existe rol escrito. El conocimiento vive en las lideres de equipo y supervisoras; no se comunica al equipo con anticipacion formal. Incorporado en `evidencia/00-reglas-generales/dotacion-turnos-cobertura.md` (nueva seccion + Riesgo 5).
 
 ---
 
 ## Decisiones Abiertas
 
-(Ninguna por el momento)
+| # | Que | Quien | Estado |
+|---|-----|-------|--------|
+| A1 | Trabajar con Lotty el diseno operativo de los Espacios de Contencion (Categoria 3) | Patricia + Lotty | ABIERTA — 17 abr 2026 |
 
 ## Decisiones Cerradas
 

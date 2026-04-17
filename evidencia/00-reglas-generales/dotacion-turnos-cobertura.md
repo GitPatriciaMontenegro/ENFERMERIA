@@ -79,6 +79,13 @@ Proceso de asignacion, rotacion y cobertura del personal de enfermeria en los 4 
 - El personal rota por todas las areas — **no hay posiciones fijas definidas**
 - La asignacion la coordina la supervisora de turno
 
+### Rol diario/semanal — comunicacion al equipo
+
+- **No existe un rol escrito** (ni en papel, excel, pizarron ni sistema) que indique quien trabaja en que piso cada dia.
+- El rol vive en el **conocimiento de las lideres de equipo y supervisoras** — se maneja de memoria.
+- Las enfermeras **no reciben el rol con anticipacion formal**: se enteran de su asignacion al momento por la supervisora de turno.
+- Implicacion: si la supervisora no esta disponible o cambia, no hay fuente consultable — ver Riesgo 5.
+
 ---
 
 ## Reorganizacion por ocupacion
@@ -137,6 +144,7 @@ Proceso de asignacion, rotacion y cobertura del personal de enfermeria en los 4 
 | 2 | No hay criterio escrito para reorganizacion por ocupacion — depende de experiencia de supervisora | MEDIO |
 | 3 | 42% de licenciadas con doble empleo limita severamente la capacidad de cobertura | ALTO |
 | 4 | Cuando no hay cobertura se sobrecarga otra area — riesgo para calidad de atencion | MEDIO |
+| 5 | No hay rol diario/semanal escrito — el conocimiento vive solo en supervisoras y lideres, sin anticipacion al equipo | ALTO |
 
 ---
 

@@ -162,7 +162,8 @@ Patricia propuso analizar los eventos con 3 categorias:
 | Las psicologas elaboran un plan de accion? | SI — es parte del proceso |
 | A quien informan las psicologas? | **Informe formal a Gestion de Personas + Lorena/Maria Elena del Granado** |
 
-**Estado:** RESUELTO — 15 abr 2026 (Lotty Paniagua)
+**Estado:** RESUELTO en definicion — 15 abr 2026 (Lotty Paniagua)
+**Pendiente de implementacion:** Patricia + Lotty deben trabajar juntas el diseno operativo de los **Espacios de Contencion** (17 abr 2026).
 
 > Proceso: el lider detecta la situacion → deriva a Espacios de Contencion → psicologas acompanan a la persona y elaboran plan de accion → psicologas emiten informe a Gestion de Personas y a la coordinacion de enfermeria (Lorena / Maria Elena del Granado).
 
