@@ -23,8 +23,8 @@
 |---|-----|-------|--------|----------------|--------|
 | 1 | Sesion de arranque con Lorena: prompt base + ejemplo real + primer commit | Lotty | 8 abr 2026 | Sin sesion la herramienta no se usa bien | COMPLETADO — administracion-medicamentos.md |
 | 2 | Documentar reglas generales y transversales a todo enfermeria (mar, mie, vie) | Lorena | 8-14 abr 2026 | Sin base general no se puede ajustar por servicio | COMPLETADO — 3/3 temas documentados |
-| 3 | Revisar calidad de lo documentado (es util? consultable?) | Lotty | 14 abr 2026 | Sin revision no hay aprendizaje | pendiente |
-| 4 | Ajustar proceso segun aprendizajes de semana 1 | Lotty + Lorena | 15 abr 2026 | Sin ajuste se perpetuan problemas | pendiente |
+| 3 | Revisar calidad de lo documentado (es util? consultable?) | Lotty | 14-15 abr 2026 | Sin revision no hay aprendizaje | COMPLETADO — ajustes menores, Lorena puede seguir |
+| 4 | Ajustar proceso segun aprendizajes de semana 1 | Lotty + Lorena | 15 abr 2026 | Sin ajuste se perpetuan problemas | COMPLETADO — P1/P2 respondidas 17 abr |
 
 ## Fase 3 — Escala dentro de enfermeria (por servicios)
 
@@ -57,7 +57,7 @@
 
 | # | Servicio | Personas | Periodo | Duracion | Estado |
 |---|----------|----------|---------|----------|--------|
-| 1 | **Internacion** (prioridad #1, confirmado Lotty + Patricia) | 50 | 16 abr — 1 may | 2 semanas | PREPARACION |
+| 1 | **Internacion** (prioridad #1, confirmado Lotty + Patricia) | 50 | 17 abr — 1 may | 2 semanas | EN CURSO — arrancada vie 17 abr |
 | 2 | UCI Adulto | 17 | 4 may — 11 may | 1.5 semanas | pendiente |
 | 3 | Emergencia | 17 | 12 may — 19 may | 1.5 semanas | pendiente |
 | 4 | UCINT Neonatal/Nursery | 10 | 20 may — 26 may | 1 semana | pendiente |
@@ -75,7 +75,7 @@
 
 | # | Que | Quien | Cuando | Que pasa si no |
 |---|-----|-------|--------|----------------|
-| 1 | Arrancar documentacion de Internacion | Lorena | 16 abr 2026 | Sin arranque no hay piloto por servicio |
+| 1 | Arrancar documentacion de Internacion | Lorena | 17 abr 2026 | Sin arranque no hay piloto por servicio |
 | 2 | Repetir por servicio segun orden definido | Lorena | Ver tabla arriba | --- |
 | 3 | Rutina estable en enfermeria, sin supervision directa | Lorena | Jul 2026 | Meta antes de saltar a otra area |
 
@@ -96,4 +96,4 @@
 
 ---
 
-*Actualizado: 14 abr 2026. Lotty Paniagua + Patricia Montenegro.*
+*Actualizado: 17 abr 2026. Lotty Paniagua + Patricia Montenegro.*
