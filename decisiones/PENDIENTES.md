@@ -20,9 +20,18 @@ Estas preguntas surgieron de la revision de calidad del 15 abr. Patricia debe re
 
 ## Decisiones Abiertas
 
-| # | Que | Quien | Estado |
-|---|-----|-------|--------|
-| A1 | Trabajar con Lotty el diseno operativo de los Espacios de Contencion (Categoria 3) | Patricia + Lotty | ABIERTA — 17 abr 2026 |
+| # | Que | Quien | Cuando | Que pasa si no | Estado |
+|---|-----|-------|--------|----------------|--------|
+| A1 | Trabajar con Lotty el diseno operativo de los Espacios de Contencion (Categoria 3) | Patricia + Lotty | Por agendar | Categoria 3 queda resuelta en papel pero sin mecanismo operativo | ABIERTA — 17 abr 2026 |
+| A2 | Cerrar las 2 personas faltantes del Grupo 1 (documentadas 6 de ~8) | Patricia + Lorena | Lun 20 abr si hay oportunidad | Queda incompleto el lote y se acumula para Grupo 2 | ABIERTA — 17 abr 2026 |
+| A3 | Arrancar documentacion del Grupo 2 Internacion (~8 personas) | Patricia + Lorena | Lun 20 abr 2026 | Se rompe el ritmo y se compromete la meta de 50 al 1 may | ABIERTA — 17 abr 2026 |
+| A4 | Formalizar regla faltante: "que hacer cuando el paciente posterga la toma de medicacion" | Patricia (propone) + Lotty (revisa) | Proponer en la proxima sesion con Lotty | Se repite el hallazgo de hoy (medicacion sin supervision de toma) | ABIERTA — 17 abr 2026 — detectado en turno-2026-04-17-tarde.md |
+| A5 | Agregar a Pedro Escobar como colaborador del repo ENFERMERIA (GitHub) | Patricia | Cuando Pedro pase su usuario de GitHub | Pedro no tiene visibilidad directa del repo de evidencia | ABIERTA — 17 abr 2026 |
+
+### Observaciones abiertas para la proxima sesion con Lotty
+
+- **Riesgo 2 de medicamentos confirmado en vivo** (turno 17 abr): medicacion dejada en habitacion sin supervisar toma. Ya no es hipotesis.
+- **Pase de turno con 2 desvios chicos** el 17 abr: (a) personal incompleto al iniciar, (b) auxiliar sin registro fisico a la mano. Si se repiten, reforzar regla de "personal completo + registros en mano al iniciar pase de turno".
 
 ## Decisiones Cerradas
 
