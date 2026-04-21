@@ -53,7 +53,7 @@
     5. Pase de turno — cumplido al 100% (6 presentes, instrumento usado por licenciadas y auxiliares, dinamico). **Contraste positivo** con el 17 abr.
   - 1 excepcion registrada: doble registro de paciente en sistema bloqueando dispensacion de medicacion. Escalado a Gestorias y Sistemas.
 - **Problemas / bloqueos:**
-  - ⚠️ **BLOQUEO ABIERTO al cierre:** incidencia de doble registro sin resolver. Medicacion del turno noche pendiente de dispensacion hasta que Gestorias/Sistemas habiliten el registro. **Urgente: dar solucion en Sistemas para acceder a la medicacion del paciente.**
+  - ✅ **RESUELTO (actualizado 21 abr):** doble registro fue corregido por area de Sistemas aproximadamente a las 20:30 del 20 abr. Tiempo total desde escalamiento hasta resolucion: ~1 hora. Medicacion dispensada correctamente al paciente.
   - Patron del rol auxiliar confirmado en 2 turnos consecutivos (17 y 20 abr).
 - **Siguiente paso:**
   - mar 21 abr — Grupo 3 (~9 personas). Verificar: (1) resolucion del doble registro y llegada de medicacion al turno noche, (2) efecto del refuerzo de bioseguridad en glucemia.

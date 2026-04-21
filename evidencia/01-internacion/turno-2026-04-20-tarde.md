@@ -93,7 +93,9 @@
 
 **Que paso:** Doble registro de una paciente en el sistema. La paciente ingreso durante el turno tarde al sector 4to C. El doble registro bloqueaba la dispensacion de medicacion desde Farmacia — la medicacion no podia generarse para que quedara lista para el turno noche.
 
-**Que se hizo:** Se identifico la duplicidad en el sistema. Se escalo comunicando con **area de Gestorias** y con **Sistemas**. Al cierre del turno tarde, **la incidencia quedo abierta a la espera de solucion** por parte de las areas consultadas. La medicacion del turno noche quedo pendiente de dispensacion hasta resolver.
+**Que se hizo:** Se identifico la duplicidad en el sistema. Se escalo comunicando con **area de Gestorias** y con **Sistemas**. Al cierre del turno tarde (19:30), la incidencia quedo abierta a la espera de solucion.
+
+**Resolucion (actualizado 21 abr):** ✅ RESUELTO por area de Sistemas aproximadamente a las **20:30** — una hora despues del pase de turno. Confirmada dispensacion de medicacion para el paciente. Tiempo total desde escalamiento hasta resolucion: ~1 hora.
 
 **Deberia haber una regla para esto?** SI — no existe procedimiento escrito sobre que hacer cuando se detecta un doble registro de paciente que bloquea la dispensacion. Faltan definir: (1) quien lo detecta, (2) a quien se escala primero (Gestorias? Sistemas? ambos?), (3) tiempo maximo de resolucion esperable, (4) que se entrega al turno siguiente cuando no se resolvio (handoff de la incidencia para no perder trazabilidad), (5) como se coordina con Farmacia para no retrasar medicacion. Propuesta para formalizar con Lotty.
 
