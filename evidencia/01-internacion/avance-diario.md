@@ -60,3 +60,25 @@
 - **Evidencia:** `turno-2026-04-20-tarde.md`
 
 ---
+
+### Fecha: 21/04/2026 (mar) — Dia habil 3 | Grupo 3 | 3er Piso B + 6to Piso C
+- **Personas documentadas hoy:** 8 / 8 planificadas ✅
+- **Pacientes atendidos en el turno:** 10 (7 en 3er B + 3 en 6to C, incluye 1 ingreso post-quirurgico a las 19:00)
+- **Acumulado:** 20 / 50 (40%)
+- **Que se hizo:**
+  - Documentados 2 pases simultaneos: 3er B (mañana→tarde, 13:30) y 6to C (tarde→noche, 19:30).
+  - 3er B: Lic Gisela Vargas, Aux Arminda Mojica (mañana); Lic Virginia Matta, Aux Rosario Cespedes (tarde).
+  - 6to C: Lic Carlina Balderrama, Aux Rosa Mary Velasco (tarde); Lic Ericka Rivero, Aux Gaby Vila (noche).
+  - 7 actividades observadas: baño paciente rechazado (3er B), admin. medicamentos + programacion 24h (3er B), pase de turno (3er B y 6to C), admin. medicamentos (6to C), monitoreo fetal (6to C), traspaso post-quirurgico desde Recuperacion (6to C, 19:00).
+  - **2 incumplimientos de regla existente** (registro en expediente): baño rechazado sin registro + actividades del pase sin reflejo en expediente. **Refuerzo aplicado con personal del 3er B.**
+  - **Oportunidad identificada:** aprovechar actualizacion en curso del **manual de procedimientos de enfermeria** para incluir horarios del baño del paciente y justificacion del turno mañana.
+  - Bueno: ambos pases de turno cumplidos al 100%. Traspaso post-quirurgico es buen modelo de handoff. Patron rol auxiliar NO se repitio hoy.
+- **Verificaciones del dia anterior:**
+  - ✅ Doble registro del 20 abr: resuelto por Sistemas a las 20:30 (~1h desde escalamiento). Medicacion dispensada OK.
+  - ✅ Bioseguridad glucemia: no se observaron controles de glucemia hoy — pendiente de verificar efecto del refuerzo.
+- **Problemas / bloqueos:** Ninguno que bloquee avance.
+- **Siguiente paso:**
+  - mie 22 abr — **Corte semana 1** (Dia habil 4). Revisar avance acumulado 20/50, validar hallazgos con Lotty, decidir si se aceleran los grupos de la semana 2.
+- **Evidencia:** `turno-2026-04-21-tarde.md`
+
+---

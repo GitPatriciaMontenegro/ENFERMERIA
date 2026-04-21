@@ -27,6 +27,8 @@ Estas preguntas surgieron de la revision de calidad del 15 abr. Patricia debe re
 | A3 | Arrancar documentacion del Grupo 2 Internacion (~8 personas) | Patricia + Lorena | Lun 20 abr 2026 | Se rompe el ritmo y se compromete la meta de 50 al 1 may | ✅ COMPLETADO 20 abr — 6 personas documentadas (4to Piso C), acumulado 12/50 |
 | A4 | Formalizar reglas faltantes: (a) "que hacer cuando el paciente posterga la toma de medicacion" [17 abr]; (b) "que hacer con doble registro de paciente que bloquea dispensacion de medicacion" [20 abr — resuelto ~1h despues del escalamiento, a las 20:30] | Patricia (propone) + Lotty (revisa) | Proponer en la proxima sesion con Lotty | Se repiten los hallazgos y queda sin trazabilidad al handoff entre turnos | ABIERTA — ampliada 20 abr 2026 |
 | A5 | Agregar a Pedro Escobar como colaborador del repo ENFERMERIA (GitHub) | Patricia | Cuando Pedro pase su usuario de GitHub | Pedro no tiene visibilidad directa del repo de evidencia | ABIERTA — 17 abr 2026 |
+| A6 | Incluir en el manual de procedimientos de enfermeria (actualmente en actualizacion) la seccion de baño del paciente: horarios, justificacion del turno mañana, criterios ante rechazo | Patricia + equipo que actualiza el manual | En el marco de la actualizacion en curso | Se mantiene como cultura no escrita y genera vacios como el del 21 abr | ABIERTA — 21 abr 2026 |
+| A7 | Seguimiento al refuerzo aplicado con personal 3er B sobre registro en expediente de todas las actividades (regla existente) | Patricia + Lorena | Proximos turnos | Si el refuerzo no tiene efecto, escalar con Maria Elena para accion mas firme | ABIERTA — 21 abr 2026 |
 
 ### Observaciones abiertas para la proxima sesion con Lotty
 
@@ -34,7 +36,9 @@ Estas preguntas surgieron de la revision de calidad del 15 abr. Patricia debe re
 - **Pase de turno con 2 desvios chicos** el 17 abr: (a) personal incompleto al iniciar, (b) auxiliar sin registro fisico a la mano. **El 20 abr el pase se hizo conforme — sirve como caso ejemplar.**
 - **Nuevo hallazgo bioseguridad (20 abr):** auxiliar realiza control de glucemia sin guantes + descarte fuera de habitacion, en 2 oportunidades. Observacion aplicada al cierre. Requiere refuerzo de protocolo y verificar disponibilidad de guantes en el piso.
 - **Patron rol auxiliar:** 17 abr (sin registro) y 20 abr (bioseguridad glucemia) — 2 desvios consecutivos del mismo rol. Validar con Maria Elena si hay brecha de capacitacion/supervision.
-- **Incidencia abierta al 20 abr:** doble registro de paciente bloqueando dispensacion. Escalado a Gestorias y Sistemas, sin resolver al cierre. Medicacion del turno noche pendiente.
+- **Incidencia abierta al 20 abr:** doble registro de paciente bloqueando dispensacion. ✅ **RESUELTO el 20 abr a las 20:30** por Sistemas (~1 hora desde el escalamiento). Medicacion dispensada OK.
+- **Hallazgo 21 abr — incumplimiento de regla existente:** registro en expediente clinico NO se realizo en 2 instancias del 3er B (rechazo de baño + actividades del pase). Se reforzo con el personal del 3er B en el turno. Verificar efecto en proximos turnos (A7).
+- **Oportunidad 21 abr — actualizacion del manual de procedimientos:** incluir baño del paciente (horarios + justificacion turno mañana + criterios ante rechazo) en el manual que el equipo esta actualizando (A6).
 
 ## Decisiones Cerradas
 
