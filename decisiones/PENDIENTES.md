@@ -24,14 +24,17 @@ Estas preguntas surgieron de la revision de calidad del 15 abr. Patricia debe re
 |---|-----|-------|--------|----------------|--------|
 | A1 | Trabajar con Lotty el diseno operativo de los Espacios de Contencion (Categoria 3) | Patricia + Lotty | Por agendar | Categoria 3 queda resuelta en papel pero sin mecanismo operativo | ABIERTA — 17 abr 2026 |
 | A2 | Cerrar las 2 personas faltantes del Grupo 1 (documentadas 6 de ~8) | Patricia + Lorena | Lun 20 abr si hay oportunidad | Queda incompleto el lote y se acumula para Grupo 2 | ABIERTA — 17 abr 2026 |
-| A3 | Arrancar documentacion del Grupo 2 Internacion (~8 personas) | Patricia + Lorena | Lun 20 abr 2026 | Se rompe el ritmo y se compromete la meta de 50 al 1 may | ABIERTA — 17 abr 2026 |
-| A4 | Formalizar regla faltante: "que hacer cuando el paciente posterga la toma de medicacion" | Patricia (propone) + Lotty (revisa) | Proponer en la proxima sesion con Lotty | Se repite el hallazgo de hoy (medicacion sin supervision de toma) | ABIERTA — 17 abr 2026 — detectado en turno-2026-04-17-tarde.md |
+| A3 | Arrancar documentacion del Grupo 2 Internacion (~8 personas) | Patricia + Lorena | Lun 20 abr 2026 | Se rompe el ritmo y se compromete la meta de 50 al 1 may | ✅ COMPLETADO 20 abr — 6 personas documentadas (4to Piso C), acumulado 12/50 |
+| A4 | Formalizar reglas faltantes: (a) "que hacer cuando el paciente posterga la toma de medicacion" [17 abr]; (b) "que hacer con doble registro de paciente que bloquea dispensacion de medicacion" [20 abr — escalado a Gestorias y Sistemas, sin resolver al cierre] | Patricia (propone) + Lotty (revisa) | Proponer en la proxima sesion con Lotty | Se repiten los hallazgos y queda sin trazabilidad al handoff entre turnos | ABIERTA — ampliada 20 abr 2026 |
 | A5 | Agregar a Pedro Escobar como colaborador del repo ENFERMERIA (GitHub) | Patricia | Cuando Pedro pase su usuario de GitHub | Pedro no tiene visibilidad directa del repo de evidencia | ABIERTA — 17 abr 2026 |
 
 ### Observaciones abiertas para la proxima sesion con Lotty
 
-- **Riesgo 2 de medicamentos confirmado en vivo** (turno 17 abr): medicacion dejada en habitacion sin supervisar toma. Ya no es hipotesis.
-- **Pase de turno con 2 desvios chicos** el 17 abr: (a) personal incompleto al iniciar, (b) auxiliar sin registro fisico a la mano. Si se repiten, reforzar regla de "personal completo + registros en mano al iniciar pase de turno".
+- **Riesgo 2 de medicamentos confirmado en vivo** (turno 17 abr): medicacion dejada en habitacion sin supervisar toma. Ya no es hipotesis. No se repitio el 20 abr.
+- **Pase de turno con 2 desvios chicos** el 17 abr: (a) personal incompleto al iniciar, (b) auxiliar sin registro fisico a la mano. **El 20 abr el pase se hizo conforme — sirve como caso ejemplar.**
+- **Nuevo hallazgo bioseguridad (20 abr):** auxiliar realiza control de glucemia sin guantes + descarte fuera de habitacion, en 2 oportunidades. Observacion aplicada al cierre. Requiere refuerzo de protocolo y verificar disponibilidad de guantes en el piso.
+- **Patron rol auxiliar:** 17 abr (sin registro) y 20 abr (bioseguridad glucemia) — 2 desvios consecutivos del mismo rol. Validar con Maria Elena si hay brecha de capacitacion/supervision.
+- **Incidencia abierta al 20 abr:** doble registro de paciente bloqueando dispensacion. Escalado a Gestorias y Sistemas, sin resolver al cierre. Medicacion del turno noche pendiente.
 
 ## Decisiones Cerradas
 

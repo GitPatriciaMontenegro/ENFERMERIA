@@ -37,3 +37,26 @@
 - **Evidencia:** `turno-2026-04-17-tarde.md`
 
 ---
+
+### Fecha: 20/04/2026 (lun) — Dia habil 2 | Grupo 2 | 4to Piso C
+- **Personas documentadas hoy:** 6 (3 turno tarde + 3 turno noche entrante en el pase)
+- **Pacientes atendidos en el turno:** 9
+- **Acumulado:** 12 / 50
+- **Que se hizo:**
+  - Turno tarde 4to Piso C documentado.
+  - 6 personas: Lic Blanca Arroyo, Lic Teofila Calderon, Aux Gravelina Sandoval (salientes tarde); Lic Laura Gonzales, Lic Amparo Millares, Aux Jacqueline Flores (entrantes noche).
+  - 5 procesos observados:
+    1. Nueva orden medica — flujo residente → enfermera → farmacia → paciente, conforme.
+    2. Administracion de medicamentos — conforme; **no se repitio el hallazgo del 17 abr** (medicacion sin supervisar toma).
+    3. Protocolo de aislamiento — cumplido al 100% (vestido fuera, higiene manos entrada y salida).
+    4. Control de glucemia (2 veces, auxiliar) — ⚠️ incumplimiento de bioseguridad: sin guantes + descarte fuera de habitacion. Observacion aplicada al cierre.
+    5. Pase de turno — cumplido al 100% (6 presentes, instrumento usado por licenciadas y auxiliares, dinamico). **Contraste positivo** con el 17 abr.
+  - 1 excepcion registrada: doble registro de paciente en sistema bloqueando dispensacion de medicacion. Escalado a Gestorias y Sistemas.
+- **Problemas / bloqueos:**
+  - ⚠️ **BLOQUEO ABIERTO al cierre:** incidencia de doble registro sin resolver. Medicacion del turno noche pendiente de dispensacion hasta que Gestorias/Sistemas habiliten el registro. **Urgente: dar solucion en Sistemas para acceder a la medicacion del paciente.**
+  - Patron del rol auxiliar confirmado en 2 turnos consecutivos (17 y 20 abr).
+- **Siguiente paso:**
+  - mar 21 abr — Grupo 3 (~9 personas). Verificar: (1) resolucion del doble registro y llegada de medicacion al turno noche, (2) efecto del refuerzo de bioseguridad en glucemia.
+- **Evidencia:** `turno-2026-04-20-tarde.md`
+
+---
