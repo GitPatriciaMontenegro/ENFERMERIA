@@ -51,10 +51,11 @@ Regla que define el flujo de deteccion, comunicacion, escalamiento, seguimiento 
 
 | Categoria | Criterio | Accion |
 |-----------|----------|--------|
-| **URGENTE** | Medicacion critica pendiente (antibioticos IV, analgesia programada, medicacion de soporte vital, etc.) | Escalamiento reforzado: llamar directamente a Sistemas ademas de Gestoria. Si no hay resolucion en la siguiente hora, avisar a supervisora. |
+| **URGENTE** | Medicacion critica pendiente (antibioticos IV, analgesia programada, medicacion de soporte vital, etc.) | 1. Escalamiento reforzado: llamar directamente a Sistemas ademas de Gestoria. 2. **Mitigacion con Farmacia** — solicitar liberacion excepcional de solo la medicacion necesaria para la hora/s criticas, mientras Sistemas resuelve el doble registro completo. 3. Si no hay resolucion en la siguiente hora, avisar a supervisora. |
 | **NO URGENTE** | No hay medicacion de administracion inmediata pendiente | Flujo estandar. Se puede esperar al SLA. |
 
-> Caso 20 abr: clasificado NO URGENTE — no habia medicacion de administracion urgente. Por eso el handoff al turno noche no genero impacto clinico.
+> **Caso 20 abr:** clasificado NO URGENTE — no habia medicacion de administracion urgente. Por eso el handoff al turno noche no genero impacto clinico.
+> **Mitigacion confirmada por Farmacia (20 abr):** si el caso hubiera sido urgente, Farmacia podia liberar solo la medicacion necesaria para esa hora mientras Sistemas corregia el doble registro. Es la valvula de escape operativa para evitar impacto clinico cuando el SLA no se cumple a tiempo.
 
 ### 5. Handoff al turno siguiente (si no se resolvio)
 
@@ -93,6 +94,7 @@ La enfermera saliente deja registrado en el pase de turno:
 - [ ] Confirmar SLA con Sistemas (1 hora en horario laboral es viable?)
 - [ ] Definir SLA fuera de horario laboral
 - [ ] Validar con Jefe de Farmacia el flujo de comunicacion (telefonica) y si hay canal adicional
+- [ ] **Formalizar con Farmacia el procedimiento de liberacion excepcional de medicacion por hora** cuando el caso sea urgente y el doble registro no se resuelva a tiempo (quien autoriza, como se registra, como se concilia despues)
 - [ ] Incorporar al reporte de enfermeria un campo especifico para trazabilidad de doble registro
 
 ---
