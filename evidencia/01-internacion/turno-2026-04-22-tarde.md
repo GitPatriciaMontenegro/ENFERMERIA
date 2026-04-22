@@ -1,14 +1,14 @@
 # Registro de Turno — Internacion General | 3er Piso B
 
 > Turno tarde (13:30 - 19:30) | Pase de turno: 19:30
-> Grupo 4 — Dia habil 5 de Fase 3 | Arranque Semana 2
+> Grupo 4 — Dia habil 4 de Fase 3 (corte semana 1 + documentacion)
 > Servicio: Internacion General — 3er Piso B (pase tarde → noche)
 
-> **Nota de cobertura:** el 3er Piso B ya tuvo documentado el pase mañana→tarde el 21 abr. Hoy se cubre el pase tarde→noche con personal distinto (rotacion).
+> **Nota de cobertura:** el 3er Piso B ya tuvo documentado el pase mañana→tarde el 21 abr. Hoy se cubre el pase tarde→noche con personal **distinto** (grupo diferente al reforzado el 21 abr).
 
 ---
 
-## Turno: 24 abr 2026 (vie) | tarde → noche | 3er Piso B
+## Turno: 22 abr 2026 (mie) | tarde → noche | 3er Piso B
 
 ### Personal del turno documentado (Grupo 4)
 
@@ -152,8 +152,8 @@
 - **Acumulado Fase 3:** / 50 (actualmente 20 al cierre del 21 abr)
 - **Que se hizo:**
 - **Problemas / bloqueos:**
-- **Siguiente paso:** lun 27 abr 2026 — Grupo 5 (~8 personas). Retorno presencial de Lotty.
+- **Siguiente paso:** vie 24 abr 2026 — Grupo 5 (~8 personas).
 
 ---
 
-*Registrado por: Patricia Montenegro (documentacion) | Fecha cierre: 24 abr 2026, 19:30*
+*Registrado por: Patricia Montenegro (documentacion) | Fecha cierre: 22 abr 2026, 19:30*
