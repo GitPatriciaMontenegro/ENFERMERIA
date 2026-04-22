@@ -102,15 +102,19 @@
 | Baño rechazado sin registro en expediente | 21 abr (3er B) | (si / no / no aplico) |  |
 | Actividades del pase sin reflejo en expediente | 21 abr (3er B) | (si / no) |  |
 
-### Seguimiento de A7 — ¿Hubo mejora en registro en expediente?
+### Observacion de A7 — ¿Se cumple la regla de registro en expediente en OTRO grupo del mismo piso?
 
-> El 21 abr se reforzo con el personal del 3er B que el registro respalda las actividades realizadas. Hoy volvemos al mismo piso: es la primera oportunidad de verificar efecto del refuerzo.
+> **Importante:** hoy documentamos al personal del pase tarde→noche del 3er B. Son enfermeras **distintas** a las del 21 abr (que fue el pase mañana→tarde, donde se aplico el refuerzo).
+>
+> Valor de observar a este grupo nuevo:
+> - Si **tambien incumplen** la regla de registro → el problema es **transversal al piso**, no solo del grupo del 21 abr. Requiere abordaje mas amplio (refuerzo a todo el piso o revision del flujo).
+> - Si **cumplen** la regla → el incumplimiento del 21 abr era especifico del grupo mañana, y el refuerzo puntual tiene sentido. Queda pendiente medir si el grupo del 21 abr mejoro (esperar proxima oportunidad con esas personas).
 
 | Observacion | Resultado |
 |-------------|-----------|
 | ¿Se registraron en expediente todas las actividades relevantes del turno? | (si / no / parcialmente) |
 | ¿Se registraron rechazos/excepciones del paciente (si los hubo)? | (si / no / no aplico) |
-| ¿Se ve mejora respecto al 21 abr? | (si / no / no se puede evaluar aun) |
+| Interpretacion preliminar (problema transversal del piso / problema del grupo 21 abr / no se puede evaluar) |  |
 
 ### Patron rol auxiliar (17 + 20 abr vs 21 + 24 abr)
 
@@ -144,7 +148,7 @@
 
 - **Personas documentadas hoy:** / 4 planificadas (3er B) + (hasta 2 recuperadas del Grupo 1)
 - **A2 — Grupo 1 (5to C) cerrado?:** (si / no — cuantas faltan)
-- **A7 — Efecto del refuerzo de registro en expediente:** (visible / no visible / sin datos hoy)
+- **A7 — Observacion en grupo nuevo del 3er B:** (cumple regla / no cumple / parcialmente) — interpretacion: (problema transversal del piso / problema del grupo del 21 abr / no se puede evaluar)
 - **Acumulado Fase 3:** / 50 (actualmente 20 al cierre del 21 abr)
 - **Que se hizo:**
 - **Problemas / bloqueos:**
