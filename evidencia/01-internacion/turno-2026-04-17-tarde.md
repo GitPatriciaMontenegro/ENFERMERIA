@@ -1,22 +1,23 @@
-# Registro de Turno — Internacion General
+# Registro de Turno — Internacion General | 5to Piso C
 
 > Turno tarde (13:30 - 19:30) | Pase de turno: 19:30
 > Grupo 1 — Dia habil 1 de Fase 3
+> Servicio: Internacion General — 5to Piso C
 
 ---
 
-## Turno: 17 abr 2026 (vie) | tarde
+## Turno: 17 abr 2026 (vie) | tarde | 5to Piso C
 
 ### Personal del turno documentado (Grupo 1)
 
 | # | Apellido y Nombre | Cargo | Piso | Observaciones |
 |---|-------------------|-------|------|---------------|
-| 1 | Lindsay Morales | Licenciada |  |  |
-| 2 | Estela Cespedes | Licenciada |  |  |
-| 3 | Maria Rene Gonzales | Auxiliar |  |  |
-| 4 | Rommy Moron | Licenciada |  |  |
-| 5 | Roxana Colque | Licenciada |  |  |
-| 6 | Giovanna Arias | Auxiliar |  |  |
+| 1 | Lindsay Morales | Licenciada | 5to C |  |
+| 2 | Estela Cespedes | Licenciada | 5to C |  |
+| 3 | Maria Rene Gonzales | Auxiliar | 5to C |  |
+| 4 | Rommy Moron | Licenciada | 5to C |  |
+| 5 | Roxana Colque | Licenciada | 5to C |  |
+| 6 | Giovanna Arias | Auxiliar | 5to C |  |
 
 > Documentadas 6 personas hoy (Grupo 1). Faltan 2 para completar el lote de ~8.
 

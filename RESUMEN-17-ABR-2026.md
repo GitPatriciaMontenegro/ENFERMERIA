@@ -38,7 +38,7 @@ Se reflejo en los 4 cronogramas que hoy es viernes 17 abr y que Internacion arra
 
 ---
 
-## 3. Fase 3 — Dia habil 1 | Grupo 1 Internacion
+## 3. Fase 3 — Dia habil 1 | Grupo 1 Internacion | 5to Piso C
 
 **Turno documentado:** tarde (13:30-19:30), pase de turno 19:30.
 **Personas documentadas hoy:** 6 de ~8 planificadas.
