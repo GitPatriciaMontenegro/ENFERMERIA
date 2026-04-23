@@ -59,7 +59,7 @@
 
 > Lorena aplica lo aprendido en Fase 1, ahora documentando especificamente Internacion.
 > Usa PLANTILLA-TURNO.md al final de cada turno + PLANTILLA-REGLA.md para reglas de servicio.
-> Lorena trabaja lun, mar, mie y vie (libre jue, sab, dom).
+> Lorena trabaja lun, mar, mie, vie y sab (libre jue y dom).
 
 ### Semana 1 (17 — 22 abr): Primeros 25 personas
 

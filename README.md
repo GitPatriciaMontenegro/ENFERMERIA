@@ -25,7 +25,7 @@
 | `evidencia/00-reglas-generales/administracion-medicamentos.md` | 8 abr | ✅ Completo + P1 cerrada 17 abr |
 | `evidencia/00-reglas-generales/dotacion-turnos-cobertura.md` | 11 abr | ✅ Completo + P2 cerrada 17 abr |
 | `evidencia/00-reglas-generales/reglas-gestion-consecuencias.md` | 14 abr | ✅ Completo |
-| `evidencia/00-reglas-generales/regla-postergacion-toma-medicacion.md` | 21 abr | 📋 Borrador — pendiente validacion Lotty (retorna 27 abr) |
+| `evidencia/00-reglas-generales/regla-postergacion-toma-medicacion.md` | 21 abr | 📋 Borrador — pendiente validacion Lotty (esta semana) |
 | `evidencia/00-reglas-generales/regla-doble-registro-dispensacion.md` | 21 abr | 📋 Borrador — pendiente validacion Lotty (retorna 27 abr) |
 
 ---

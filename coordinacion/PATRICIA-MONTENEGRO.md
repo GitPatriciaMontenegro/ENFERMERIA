@@ -88,9 +88,9 @@ Es el caso piloto del proyecto. Si funciona aca, se replica en otras areas.
 | 8 | Ajuste del proceso | Lotty + Lorena | 15 abr | ✅ COMPLETADO |
 | 9 | P1: registro post-administracion medicamentos | Patricia | 17 abr | ✅ COMPLETADO |
 | 10 | P2: comunicacion del rol diario/semanal | Patricia | 17 abr | ✅ COMPLETADO |
-| A1 | Diseno operativo Espacios de Contencion con Lotty | Patricia + Lotty | Agendar al retorno Lotty 27 abr | PENDIENTE |
+| A1 | Diseno operativo Espacios de Contencion con Lotty | Patricia + Lotty | Esta semana (Lotty asiste desde 21 abr) | PENDIENTE |
 | A2 | Documentar 2 personas 5to C no encontradas (Grupo 1) | Patricia | Cuando aparezcan | PENDIENTE |
-| A4 | Validar 2 borradores de reglas nuevas con Lotty | Lotty | Al retorno 27 abr | PENDIENTE |
+| A4 | Validar 2 borradores de reglas nuevas con Lotty | Lotty | Esta semana (Lotty asiste desde 21 abr) | PENDIENTE |
 | A5 | Agregar a Pedro (`VITALIASALUD`) al repo ENFERMERIA | Patricia | Instrucciones enviadas 23 abr | ⏳ EN ESPERA — Patricia debe ejecutar |
 | A6 | Incluir bano del paciente en manual de procedimientos | Patricia + equipo | En actualizacion del manual | PENDIENTE |
 | A7 | Seguimiento refuerzo registro en expediente — grupo manana 3er B | Patricia | Vie 24 abr | PENDIENTE |

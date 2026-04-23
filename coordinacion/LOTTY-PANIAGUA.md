@@ -2,7 +2,7 @@
 
 > **Rol:** Lider del piloto de documentacion — Clinica Foianini
 > **Principio:** Velocidad con tecnologia. Si se puede hacer en 2 dias, no se planifica para 2 semanas.
-> **Estado:** 🏥 Baja medica 13–26 abr. Trabajo remoto desde casa. Retorno presencial: lun 27 abr.
+> **Estado:** 🏥 Baja medica 13–26 abr (activa). Asistencia presencial retomada desde lun 21 abr. Poniendose al dia.
 
 ---
 
@@ -79,13 +79,13 @@
 
 ---
 
-## Pendiente al retorno (27 abr)
+## Pendientes — semana 23–25 abr (asistiendo presencialmente)
 
 | # | Que | Cuándo |
 |---|-----|--------|
-| 1 | Validar 2 borradores de reglas de Lorena (A4) | 27 abr |
-| 2 | Agendar sesion Espacios de Contencion con Patricia (A1) | 27 abr |
-| 3 | Lorena completa semana 2 de Internacion | 27-29 abr |
+| 1 | Validar 2 borradores de reglas de Lorena (A4) | Esta semana |
+| 2 | Agendar sesion Espacios de Contencion con Patricia (A1) | Esta semana |
+| 3 | Lorena completa semana 2 de Internacion | 24-29 abr |
 | 4 | Cierre Internacion — ~50/50 al 29 abr | 29 abr |
 
 ---
@@ -96,4 +96,4 @@
 
 ---
 
-*Actualizado: 23 abr 2026. Retorno presencial: lun 27 abr.*
+*Actualizado: 23 abr 2026. Baja medica 13–26 abr (activa). Asistencia presencial desde lun 21 abr.*
