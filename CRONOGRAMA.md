@@ -2,8 +2,8 @@
 
 > **Duena:** Lotty Paniagua
 > **Principio:** Velocidad con tecnologia. Si se puede hacer en 2 dias, no se planifica para 2 semanas.
-> **Estado:** EN EJECUCION — Piloto: Enfermeria (Lorena)
-> **Inicio:** 2 abr 2026
+> **Estado:** EN EJECUCION — Fase 3 Internacion EN CURSO (24/50 — 48% al 22 abr)
+> **Inicio:** 2 abr 2026 | **Actualizado:** 23 abr 2026
 
 ---
 
@@ -53,11 +53,11 @@
 ### Cronograma por servicio
 
 > Propuesta revisada con Patricia Montenegro (7 abr 2026)
-> Lorena trabaja **lun, mar, mie y vie** (libre jue, sab, dom). Fechas calculadas en base a sus dias habiles.
+> Lorena trabaja **lun, mar, mie, vie y sab** (libre jue y dom). Fechas calculadas en base a sus dias habiles.
 
 | # | Servicio | Personas | Periodo | Duracion | Estado |
 |---|----------|----------|---------|----------|--------|
-| 1 | **Internacion** (prioridad #1, confirmado Lotty + Patricia) | 50 | 17 abr — 1 may | 2 semanas | EN CURSO — arrancada vie 17 abr |
+| 1 | **Internacion** (prioridad #1, confirmado Lotty + Patricia) | 50 | 17 abr — 1 may | 2 semanas | 🟢 EN CURSO — 24/50 (48%) al 22 abr |
 | 2 | UCI Adulto | 17 | 4 may — 11 may | 1.5 semanas | pendiente |
 | 3 | Emergencia | 17 | 12 may — 19 may | 1.5 semanas | pendiente |
 | 4 | UCINT Neonatal/Nursery | 10 | 20 may — 26 may | 1 semana | pendiente |
@@ -96,4 +96,4 @@
 
 ---
 
-*Actualizado: 17 abr 2026. Lotty Paniagua + Patricia Montenegro.*
+*Actualizado: 23 abr 2026. Lotty Paniagua + Patricia Montenegro.*

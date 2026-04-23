@@ -15,8 +15,8 @@ Enfermeria tiene 169 personas y 39 anos de conocimiento no escrito (Maria Elena 
 Es el caso piloto del proyecto. Si funciona aca, se replica en otras areas.
 
 **Estructura de documentacion:**
-1. Primero: reglas generales y transversales a todo enfermeria
-2. Luego: ajuste y especificidades por servicio (en orden definido con Lotty)
+1. Primero: reglas generales y transversales a todo enfermeria ✅ COMPLETADO
+2. Luego: ajuste y especificidades por servicio (en orden definido con Lotty) — ARRANCO 17 ABR ✅
 
 ---
 
@@ -35,115 +35,65 @@ Es el caso piloto del proyecto. Si funciona aca, se replica en otras areas.
 
 ---
 
-### Tema 1 — Manejo del sistema propio de la clinica
+### Orden de documentacion
 
-- Lo primero que preguntan todas las enfermeras nuevas o de reemplazo
-- El sistema es propio de la Clinica Foianini — nadie lo conoce antes de llegar
-- Tiene caracteristicas muy especificas que no estan documentadas
-- **Prioridad:** Alta — es el primer obstaculo de toda persona nueva
-
----
-
-### Tema 2 — Protocolo de reorganizacion por baja ocupacion y doblaje de turno
-
-**Que pasa cuando alguien falta?**
-- Si la ocupacion es baja o nula en un area, se reorganizan los servicios
-- Si no es posible reorganizar, se busca un doblaje
-
-**Que es un doblaje?**
-- Duplicar un turno, o cubrir un turno con una persona externa al servicio
-- Con auxiliares: mas facil de conseguir
-- Con licenciadas: mas complicado — la mayoria trabaja en 2 instituciones
-
-**Lo que no esta escrito — dimension cultural:**
-> "El mayor obstaculo del doblaje no es operativo, es cultural. Las enfermeras se identifican con su servicio, no con la institucion. El doblaje funciona cuando la persona entiende que el objetivo es de la clinica, no del area." — Patricia Montenegro, 7 abr 2026
-
-- **Prioridad:** Alta — es el mayor dolor operativo del area
-
----
-
-### Tema 3 — Dotacion de personal por servicio, turno y nivel de dependencia
-
-**Lo que existe:**
-- La dotacion general "todo el mundo la sabe" pero no esta formalizada por escrito
-
-**Lo que NO existe — las excepciones:**
-- Que pasa si hay que ampliar 2 camas mas?
-- Que pasa si hay pacientes totalmente dependientes?
-- Que pasa si hay un paciente demandante?
-- Como se mide el nivel de dependencia de un paciente?
-- Cuando justifica un paciente personal extra en el servicio?
-
-**Hoy:** Se maneja por observacion y criterio personal en el momento. No hay criterio escrito.
-
-- **Prioridad:** Muy alta — es la base de todas las decisiones de personal
-
----
-
-### Tema 4 — Consecuencias por omisiones y conductas incorrectas
-
-**Situacion actual:**
-- No existe nada escrito sobre repercusiones por errores u omisiones
-- Se evito documentar sanciones para no generar miedo al error
-- Resultado: los errores se repiten sin consecuencia
-
-**Caso real — 7 abr 2026:**
-- Productos vencidos en stock
-- Costo economico bajo, pero impacto institucional alto
-- Maria Elena y Patricia tuvieron que definir una accion en el momento, sin protocolo
-
-**Lo que falta escribir:**
-- Que conductas u omisiones tienen consecuencia
-- Que tipo de consecuencia (correccion, reporte, capacitacion, sancion)
-- Quien decide y quien aplica
-- Como se documenta el incidente
-
-- **Prioridad:** Urgente — caso real ocurrido hoy
-
----
-
-### Tema 5 — Administracion de medicamentos
-
-- Desde la preparacion hasta la administracion
-- Saber reconocer los efectos adversos
-- Cualquier accion que genere dano al paciente
-- **Prioridad:** Critica — riesgo directo a seguridad del paciente
-
----
-
-## Orden de documentacion propuesto
-
-| # | Tema | Prioridad | Dia propuesto |
-|---|------|-----------|---------------|
-| 1 | Administracion de medicamentos | Critica — seguridad del paciente | Mar 8 abr |
-| 2 | Dotacion de personal + excepciones + dependencia | Muy alta — base de todo | Mie 9 abr |
-| 3 | Protocolo de doblaje + cultura institucional | Alta — mayor dolor operativo | Vie 11 abr |
-| 4 | Consecuencias por omisiones | Urgente — caso real hoy | Semana 2 |
-| 5 | Manejo del sistema propio de la clinica | Alta — primer obstaculo | Semana 2 |
+| # | Tema | Prioridad | Estado |
+|---|------|-----------|--------|
+| 1 | Administracion de medicamentos | Critica | ✅ COMPLETADO 8 abr |
+| 2 | Dotacion de personal + excepciones + dependencia | Muy alta | ✅ COMPLETADO 11 abr |
+| 3 | Protocolo de doblaje + cultura institucional | Alta | ✅ COMPLETADO 14 abr |
+| 4 | Consecuencias por omisiones | Urgente | ✅ COMPLETADO 14 abr |
+| 5 | Manejo del sistema propio de la clinica | Alta | PENDIENTE — Fase 3 |
 
 ---
 
 ## Documentos completados — FASE 2 CERRADA (3/3)
 
-| # | Documento | Fecha | Evidencia | Datos clave |
-|---|-----------|-------|-----------|-------------|
-| 1 | Administracion de medicamentos | 8 abr | administracion-medicamentos.md | 6 etapas, 21 pasos, 2 riesgos criticos |
-| 2 | Dotacion y rotacion de turnos | 11 abr | dotacion-turnos-cobertura.md | 4 pisos, 4 turnos, 50 personas, 42% licenciadas doble empleo |
-| 3 | Reglas de gestion y consecuencias | 14 abr | reglas-gestion-consecuencias.md | Marco 3 categorias, caso real producto vencido, 5 riesgos |
+| # | Documento | Fecha | Datos clave |
+|---|-----------|-------|-------------|
+| 1 | Administracion de medicamentos | 8 abr | 6 etapas, 21 pasos, 2 riesgos criticos. P1 cerrada 17 abr. |
+| 2 | Dotacion y rotacion de turnos | 11 abr | 4 pisos, 50 personas, 42% licenciadas doble empleo. P2 cerrada 17 abr. |
+| 3 | Reglas de gestion y consecuencias | 14 abr | Marco 3 categorias, caso real producto vencido, 5 riesgos |
+
+---
+
+## Internacion — Fase 3 (17 abr — 1 may)
+
+**Meta:** 50 personas en ~8 dias habiles
+
+| Dia | Grupo | Piso/Turno | Personas | Acumulado | Estado |
+|-----|-------|-----------|----------|-----------|--------|
+| Vie 17 abr | Grupo 1 | 5to Piso C tarde | 6 | 6/50 | ✅ COMPLETADO |
+| Lun 20 abr | Grupo 2 | 4to Piso C tarde/noche | 6 | 12/50 | ✅ COMPLETADO |
+| Mar 21 abr | Grupo 3 | 3er B + 6to C tarde | 8 | 20/50 (40%) | ✅ COMPLETADO |
+| Mie 22 abr | Grupo 4 | 3er B tarde/noche | 4 | **24/50 (48%)** | ✅ COMPLETADO |
+| Vie 24 abr | Grupo 5 | ~8 personas | — | — | Pendiente |
+| Lun 27 abr | Grupo 6 | ~8 personas | — | — | Pendiente |
+| Mar 28 abr | Grupo 7 | ~9 personas | — | — | Pendiente |
+| Mie 29 abr | Grupo 8 + cierre | — | — | — | Pendiente |
+
+---
 
 ## Pendientes
 
 | # | Que | Quien | Cuando | Estado |
 |---|-----|-------|--------|--------|
-| 1 | Crear repo de enfermeria en GitHub | Pedro | 3 abr 2026 | COMPLETADO |
-| 2 | Definir que reglas generales documentar primero | Lorena + Lotty | 7 abr 2026 | COMPLETADO |
-| 3 | Primera sesion de arranque con Claude | Lotty | 8 abr 2026 | COMPLETADO |
-| 4 | Documentacion reglas generales (3 temas) | Lorena | 8-14 abr 2026 | COMPLETADO — 3/3 |
-| 5 | Definir orden de servicios | Lorena + Lotty | 7 abr 2026 | COMPLETADO |
-| 6 | Agregar columna "que pasa si no" en PLAN-INTERNACION.md | Lorena | 14 abr | COMPLETADO |
-| 7 | Revision de calidad (Lotty) | Lotty | 14 abr 2026 | PENDIENTE |
-| 8 | Ajuste del proceso | Lotty + Lorena | 15 abr 2026 | PENDIENTE |
-| 9 | Arrancar documentacion Internacion | Lorena | 16 abr 2026 | PENDIENTE |
+| 1 | Crear repo enfermeria en GitHub | Pedro | 3 abr | ✅ COMPLETADO |
+| 2 | Definir reglas generales a documentar primero | Lorena + Lotty | 7 abr | ✅ COMPLETADO |
+| 3 | Primera sesion de arranque con Claude | Lotty | 8 abr | ✅ COMPLETADO |
+| 4 | Documentacion reglas generales (3 temas) | Lorena | 8-14 abr | ✅ COMPLETADO — 3/3 |
+| 5 | Definir orden de servicios | Lorena + Lotty | 7 abr | ✅ COMPLETADO |
+| 6 | Agregar columna "que pasa si no" en PLAN-INTERNACION.md | Lorena | 14 abr | ✅ COMPLETADO |
+| 7 | Revision de calidad (Lotty) | Lotty | 15 abr | ✅ COMPLETADO |
+| 8 | Ajuste del proceso | Lotty + Lorena | 15 abr | ✅ COMPLETADO |
+| 9 | P1: registro post-administracion medicamentos | Patricia | 17 abr | ✅ COMPLETADO |
+| 10 | P2: comunicacion del rol diario/semanal | Patricia | 17 abr | ✅ COMPLETADO |
+| A1 | Diseno operativo Espacios de Contencion con Lotty | Patricia + Lotty | Agendar al retorno Lotty 27 abr | PENDIENTE |
+| A2 | Documentar 2 personas 5to C no encontradas (Grupo 1) | Patricia | Cuando aparezcan | PENDIENTE |
+| A4 | Validar 2 borradores de reglas nuevas con Lotty | Lotty | Al retorno 27 abr | PENDIENTE |
+| A5 | Agregar a Pedro (`VITALIASALUD`) al repo ENFERMERIA | Patricia | Instrucciones enviadas 23 abr | ⏳ EN ESPERA — Patricia debe ejecutar |
+| A6 | Incluir bano del paciente en manual de procedimientos | Patricia + equipo | En actualizacion del manual | PENDIENTE |
+| A7 | Seguimiento refuerzo registro en expediente — grupo manana 3er B | Patricia | Vie 24 abr | PENDIENTE |
 
 ---
 
@@ -151,16 +101,12 @@ Es el caso piloto del proyecto. Si funciona aca, se replica en otras areas.
 
 | Bloqueo | Desde | Resuelto |
 |---------|-------|----------|
-| ~~Sin acceso al repo foianini-documentacion-claude~~ | 7 abr 2026 | Pedro agrego acceso el 6 abr 2026 |
+| ~~Sin acceso al repo foianini-documentacion-claude~~ | 7 abr 2026 | ✅ Pedro agrego acceso el 6 abr 2026 |
+| ~~Doble registro bloqueando dispensacion de medicacion~~ | 20 abr 2026 | ✅ Sistemas resolvio 21 abr 20:30 (~1h) |
 
 ---
 
 ## Standup diario
-
-Formato (3 lineas):
-1. Que complete hoy
-2. Que hare manana
-3. Que me bloquea (si nada, decir "sin bloqueo")
 
 ### 7 abr 2026
 1. Reunion de arranque con Lotty: 5 temas identificados, orden definido, plan semanal armado
@@ -172,20 +118,45 @@ Formato (3 lineas):
 2. Manana mie 9: documentar Rotacion, cobertura y reorganizacion de personal
 3. Sin bloqueo
 
-### 9 abr 2026 (miercoles)
+### 9 abr 2026
 1. Sesion de revision y actualizacion de documentos compartidos con Lotty y Pedro
 2. Viernes 11 abr: documentar Rotacion, cobertura y reorganizacion de personal
 3. Sin bloqueo
 
-### 11 abr 2026 (viernes)
-1. Segundo documento completado: Dotacion y rotacion de turnos — 4 pisos, 4 turnos, dotacion completa, datos de doble empleo
+### 11 abr 2026
+1. Segundo documento completado: Dotacion y rotacion de turnos — 4 pisos, 4 turnos, 50 personas, 42% licenciadas doble empleo
 2. Proxima sesion: Tema 3 — Reglas de gestion y consecuencias
 3. Sin bloqueo
 
 ### 14 abr 2026
-1. Tercer documento completado: Reglas de gestion, escala de dependencia y consecuencias. Marco de 3 categorias, caso real producto vencido, 5 riesgos. FASE 2 COMPLETADA (3/3 temas)
+1. Tercer documento completado: Reglas de gestion, escala de dependencia y consecuencias. Marco 3 categorias, caso real producto vencido, 5 riesgos. FASE 2 COMPLETADA (3/3)
 2. Correccion observacion Pedro/Lotty: columna "que pasa si no" agregada a PLAN-INTERNACION.md
 3. Sin bloqueo
+
+### 15 abr 2026
+1. Revision de calidad Fase 2 completada con Lotty. Veredicto: ajustes menores, puede arrancar Internacion. Categoria 3 resuelta: Espacios de Contencion + informe psicologa.
+2. Proximo dia habil (vie 17 abr): INICIO Fase 3 — Internacion Grupo 1
+3. Sin bloqueo
+
+### 17 abr 2026 (vie)
+1. P1 y P2 respondidas e incorporadas en los documentos. Inicio Fase 3: Grupo 1 (6 personas, 5to Piso C). Decision A1 abierta: Espacios de Contencion con Lotty.
+2. Lun 20 abr: Grupo 2 (~8 personas)
+3. Sin bloqueo
+
+### 20 abr 2026 (lun)
+1. Grupo 2 documentado — 4to Piso C (6 personas, tarde + pase noche). Acumulado 12/50. 5 procesos: 4 conformes + 1 incumplimiento bioseguridad glucemia (auxiliar). Pase de turno ejemplar. 1 excepcion: doble registro bloqueo dispensacion → escalado a Sistemas, SIN RESOLVER al cierre.
+2. Mar 21 abr: Grupo 3 (~9 personas). Verificar: resolucion doble registro + efecto refuerzo bioseguridad.
+3. **Bloqueo abierto:** medicacion turno noche pendiente por doble registro no resuelto.
+
+### 21 abr 2026 (mar)
+1. Grupo 3 documentado — 3er B + 6to C (8 personas). Acumulado 20/50 (40%). 7 actividades: 5 conformes + 2 incumplimientos registro en expediente (3er B). Refuerzo aplicado. Bloqueo 20 abr resuelto ✅ (Sistemas 20:30, ~1h). 2 borradores de reglas listos para Lotty (A4). Patron auxiliar NO reincidio.
+2. Mie 22 abr: Corte semana 1. Revisar 20/50, validar borradores con Lotty.
+3. Sin bloqueo. Pendientes nuevos: A6 (bano paciente en manual) y A7 (seguimiento registro expediente).
+
+### 22 abr 2026 (mie) — Corte semana 1
+1. Grupo 4 — 3er B tarde/noche (4 personas): Lic Virginia Matta, Aux Rosario Cespedes (salientes); Lic Varuska Arevalo, Aux Nicol Rivamonta (entrantes). Acumulado **24/50 (48%)**. 3 actividades, todas conformes. Senal A7: grupo tarde 3er B cumple — problema del 21 era del grupo manana, no del piso. Patron auxiliar: 2 dias sin desvios. A2 se arrastra (2 del 5to C no encontrados).
+2. Vie 24 abr: Grupo 5 (~8 personas). Cerrar A2 si aparecen.
+3. Sin bloqueo. Turno de referencia positiva.
 
 ---
 
@@ -194,11 +165,15 @@ Formato (3 lineas):
 | Fecha | Que se hizo | Evidencia |
 |-------|-------------|-----------|
 | 7 abr | Reunion arranque: 5 temas prioritarios + plan semanal | ACTA-2026-04-07.md |
-| 8 abr | Primer documento: Administracion de medicamentos | administracion-medicamentos.md |
-| 11 abr | Segundo documento: Dotacion y rotacion de turnos | dotacion-turnos-cobertura.md |
-| 14 abr | Tercer documento: Reglas de gestion y consecuencias. FASE 2 COMPLETADA | reglas-gestion-consecuencias.md |
-| 14 abr | Correccion PLAN-INTERNACION.md: columna "que pasa si no" agregada | PLAN-INTERNACION.md |
+| 8 abr | Documento 1: Administracion de medicamentos | administracion-medicamentos.md |
+| 11 abr | Documento 2: Dotacion y rotacion de turnos | dotacion-turnos-cobertura.md |
+| 14 abr | Documento 3: Reglas de gestion y consecuencias. FASE 2 COMPLETADA | reglas-gestion-consecuencias.md |
+| 14 abr | Correccion PLAN-INTERNACION.md: columna "que pasa si no" | PLAN-INTERNACION.md |
+| 17 abr | P1/P2 cerradas. INICIO Fase 3 — Grupo 1 (6/50, 5to Piso C) | RESUMEN-17-ABR-2026.md |
+| 20 abr | Grupo 2 — 4to Piso C (6 personas, acumulado 12/50) | RESUMEN-20-ABR-2026.md |
+| 21 abr | Grupo 3 — 3er B + 6to C (8 personas, acumulado 20/50). 2 borradores reglas | RESUMEN-21-ABR-2026.md |
+| 22 abr | Grupo 4 + corte semana 1 — 3er B tarde/noche (4 personas, acumulado 24/50) | RESUMEN-22-ABR-2026.md |
 
 ---
 
-*Actualizado: 14 abr 2026.*
+*Actualizado: 23 abr 2026. Patricia Montenegro + Lotty Paniagua + Claude.*
