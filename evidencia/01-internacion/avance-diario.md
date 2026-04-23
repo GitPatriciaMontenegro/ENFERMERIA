@@ -82,3 +82,25 @@
 - **Evidencia:** `turno-2026-04-21-tarde.md`
 
 ---
+
+### Fecha: 22/04/2026 (mie) — Dia habil 4 | Grupo 4 | 3er Piso B (corte semana 1 + documentacion)
+- **Personas documentadas hoy:** 4 / 4 planificadas ✅
+- **Pacientes atendidos en el turno:** 4
+- **Acumulado:** **24 / 50 (48%)**
+- **Que se hizo:**
+  - Grupo 4 documentado en 3er Piso B — pase tarde→noche (complemento del pase mañana→tarde del 21 abr, con personal distinto).
+  - Salientes tarde: Lic Virginia Matta, Aux Rosario Cespedes.
+  - Entrantes noche: Lic Varuska Arevalo, Aux Nicol Rivamonta.
+  - 3 actividades observadas, todas cumplieron protocolo:
+    1. Administracion de medicamentos — conforme, sin observaciones.
+    2. Confort + cambio de ropa de cama por auxiliar, con llamado al personal de apoyo, **registro correspondiente en expediente clinico** (señal positiva para A7).
+    3. Pase de turno — personal completo, instrumentos necesarios, sin intercurrencias.
+  - **Lectura A7:** el grupo tarde del 3er B cumple la regla de registro en expediente. El incumplimiento del 21 abr era del grupo mañana, no transversal al piso. Queda pendiente medir al grupo mañana en proxima oportunidad.
+  - **Patron rol auxiliar:** 2 dias consecutivos sin desvios (21 + 22 abr). Mejora a monitorear.
+  - **A2** (2 del 5to C): no aparecieron hoy, se arrastra.
+- **Problemas / bloqueos:** Ninguno. Turno de referencia positiva.
+- **Siguiente paso:**
+  - vie 24 abr — Grupo 5 (~8 personas). Intentar cerrar A2. Si se cruza con personal mañana del 3er B, medir efecto del refuerzo.
+- **Evidencia:** `turno-2026-04-22-tarde.md`
+
+---
