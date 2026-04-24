@@ -31,11 +31,11 @@ Flujo:
 
 | # | Seccion a agregar / ampliar | Estado | Evidencia piloto | Aliado externo | Responsable |
 |---|-----------------------------|--------|-------------------|----------------|-------------|
-| 1 | **Rol supervisora / coordinadora — Pase de turno** | 🟢 EN REDACCION hoy 24 abr | 5 pases observados (17, 20, 21x2, 22 abr) con desvios y cumplimientos | — | Patricia (conoce el rol de primera mano) |
-| 2 | **Rol supervisora / coordinadora — Reporte de ocupacion** | 📋 PENDIENTE | Conecta con `dotacion-turnos-cobertura.md` (datos de dotacion, rotacion, cobertura) | — | Patricia + Maria Elena |
+| 1 | **ACTUALIZACION del procedimiento de pase de turno asistencial (2016)** — incorporarlo como procedimiento **transversal** + incluir **personal de apoyo** + ajustar **instrumentos** + incluir las mejoras observadas en el piloto. Nota de Calidad (24 abr): el procedimiento ya existe en el manual pero esta desactualizado desde 2016; no se crea uno nuevo, se actualiza el vigente. El borrador "pase de turno rol supervisora/coordinadora" que ya tenemos aporta contenido; el rol de coordinacion se integra al procedimiento transversal en vez de ser un procedimiento separado. | 🔵 REPLANTEADO — 24 abr | 5 pases observados (17, 20, 21x2, 22 abr) con desvios y cumplimientos. Ademas: ingreso post-quirurgico 21 abr con personal de apoyo | **Calidad (Julia)** — confirmo el estado actual del procedimiento | Patricia + equipo del manual + Calidad |
+| 2 | **Reporte de ocupacion** (rol supervisora / coordinadora) | 📋 PENDIENTE | Conecta con `dotacion-turnos-cobertura.md` (datos de dotacion, rotacion, cobertura) | — | Patricia + Maria Elena |
 | 3 | **Baño del paciente — ampliacion** | 📋 PENDIENTE | A6 (21 abr): rechazo del paciente al baño, sin registro en expediente. Hoy existe parte del procedimiento pero falta: horarios oficiales + justificacion del turno mañana + situaciones que surgen (rechazo, postergacion, etc.) | — | Patricia + equipo del manual |
 | 4 | **Cuidados en toma de glucemia — bioseguridad** | 📋 PENDIENTE | 20 abr (4to C): auxiliar sin guantes + descarte fuera de habitacion. Observacion aplicada al cierre. Regla existente pero sin formalizar en el manual | **Control de Infecciones** | Patricia + Control de Infecciones |
-| 5 | **Administracion de hemoderivados** | 📋 PENDIENTE — sin evidencia en piloto aun | — | Banco de sangre (posible) | Patricia + Maria Elena |
+| 5 | **Administracion de hemoderivados — complemento al procedimiento existente** | 🟢 EN REDACCION hoy 24 abr — Patricia redacto complemento al procedimiento existente | — | Banco de sangre (posible) | Patricia + Maria Elena |
 
 ---
 

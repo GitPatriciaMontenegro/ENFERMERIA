@@ -1,13 +1,23 @@
-# PASE DE TURNO — ROL SUPERVISORA / COORDINADORA
+# INSUMO para ACTUALIZACION del procedimiento de PASE DE TURNO ASISTENCIAL (transversal)
 
-> **Estado: BORRADOR.**
-> **Flujo:** Redaccion (Patricia) → revision y visto bueno del equipo del manual de enfermeria → inclusion al manual oficial.
+> **Estado: BORRADOR — insumo para actualizacion, no procedimiento nuevo.**
+>
+> **Contexto (actualizado 24 abr con Calidad/Julia):** el manual de procedimientos de enfermeria **ya contiene** un procedimiento de pase de turno asistencial, vigente desde **2016**. Calidad lo considera un **procedimiento transversal**. No corresponde crear uno nuevo — corresponde **actualizar el vigente** para:
+>
+> - Incluir el rol de **supervisora / coordinadora** (lo que estaba documentado en este borrador)
+> - Incluir a **personal de apoyo** y otros equipos involucrados en el pase
+> - Actualizar los **instrumentos** (planillas, registros, soporte digital)
+> - Incorporar las **mejoras y cambios observados en el piloto de abril 2026**
+>
+> **Flujo:** Este documento aporta contenido al equipo que actualice el procedimiento vigente. Redaccion (Patricia) → revision y visto bueno del equipo del manual de enfermeria + Calidad → inclusion al manual oficial actualizado.
+>
 > **Formato:** ajustado al manual de procedimientos de enfermeria CF (secciones: Objetivo, Alcance, Definiciones y siglas, Responsabilidades, cuerpo del procedimiento con incisos a), b), c)...).
-> **Nada de lo aqui escrito se incorpora al manual sin la validacion del equipo.**
+>
+> **Nada de lo aqui escrito se incorpora al manual sin la validacion del equipo y de Calidad.**
 
 **Fecha borrador:** 24 abr 2026
 **Documentado por:** Patricia Lorena Montenegro
-**Vacio que cubre:** el manual actual describe el pase de turno en areas asistenciales (entre enfermeras de piso) pero no describe el pase del rol supervisora/coordinadora.
+**Aporta a la actualizacion de:** procedimiento vigente de pase de turno asistencial (2016) — en la seccion del rol supervisora/coordinadora y articulacion con otros equipos (personal de apoyo).
 
 ---
 
