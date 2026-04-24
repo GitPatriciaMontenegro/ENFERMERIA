@@ -177,16 +177,26 @@ Calidad informo hoy que el procedimiento de pase de turno asistencial **YA EXIST
 
 ---
 
-## 10. Discrepancia que requiere confirmacion
+## 10. Dotacion confirmada (discrepancia cerrada)
 
-**Dotacion 4to C y 5to C — tarde / noche:**
+Patricia confirma al cierre del dia que la dotacion del **4to C y 5to C en turnos tarde y noche** es de **3 enfermeras (2 Lic + 1 Aux)** — coincide con el documento `dotacion-turnos-cobertura.md` del 11 abr. El documento vigente es correcto; no requiere actualizacion.
 
-| Fuente | Dato |
-|--------|------|
-| `dotacion-turnos-cobertura.md` (11 abr) | 3 enfermeras por turno (2 Lic + 1 Aux) |
-| Patricia 24 abr | 2 enfermeras por turno (1 Lic + 1 Aux) |
+### Cobertura real por turno (confirmada)
 
-**A confirmar:** ¿cual es el dato real? ¿Es diferencia entre dotacion aspirada vs real? Definir antes de seguir el analisis de variabilidad del proyecto con Lotty.
+| Piso | Mañana | Tarde | Noche Par | Noche Impar | Total posiciones/dia |
+|------|--------|-------|-----------|-------------|----------------------|
+| 3er B | 2 | 2 | 2 | 2 | 8 |
+| 4to C | 4 | 3 | 3 | 3 | 13 |
+| 5to C | 4 | 3 | 3 | 3 | 13 |
+| 6to C | 2 | 2 | 2 | 2 | 8 |
+| **Total** | **12** | **10** | **10** | **10** | **42 posiciones/dia** |
+
+### Implicacion para el proyecto con Lotty
+
+La variabilidad sigue existiendo (4to y 5to C tienen mañana mas cargada que tarde/noche) pero la brecha es menor de lo que parecia esta mañana. Analisis para la agenda de observaciones sin aviso:
+- **Turno mañana en 4to/5to C** = 4 personas por piso (mejor aprovechamiento)
+- **Turno tarde/noche en 4to/5to C** = 3 personas por piso
+- **3er B y 6to C** = 2 personas en cualquier turno
 
 ---
 

@@ -43,7 +43,7 @@ Estas preguntas surgieron de la revision de calidad del 15 abr. Patricia debe re
 - **Oportunidad 21 abr — actualizacion del manual de procedimientos:** incluir baño del paciente (horarios + justificacion turno mañana + criterios ante rechazo) en el manual que el equipo esta actualizando (A6).
 - **Input de Calidad (24 abr):** el procedimiento de pase de turno asistencial ya existe en el manual desde 2016 — debe ACTUALIZARSE (no crearse uno nuevo). Es transversal, debe incluir rol supervisora/coordinadora + personal de apoyo + instrumentos actualizados. Borrador renombrado como insumo para actualizacion.
 - **Buenas practicas documentadas 24 abr (5to C):** filtro ejemplar de medicacion (enfermera detecta medicacion no indicada antes de administrar) + comunicacion eficaz al residente/hospitalista (segundo caso del patron, confirma que funciona sostenido). Evidencia positiva para reportar al equipo y al manual.
-- **Discrepancia detectada 24 abr:** dotacion 4to C y 5to C tarde/noche — Patricia reporta 2 enf vs doc `dotacion-turnos-cobertura.md` que dice 3 enf. Confirmar y actualizar el documento si corresponde.
+- **Discrepancia 24 abr — CERRADA mismo dia:** dotacion 4to C y 5to C tarde/noche confirmada en **3 enfermeras (2 Lic + 1 Aux)** — coincide con `dotacion-turnos-cobertura.md` (11 abr). El documento vigente es correcto, no requiere actualizacion.
 - **Modalidad de observacion apoyada (24 abr):** relevamiento noche→mañana 5to C realizado por Maria Elena + Zuleidy con orientacion previa de Patricia. Modelo extensible para turnos no cubiertos presencialmente.
 
 ## Decisiones Cerradas

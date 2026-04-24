@@ -124,7 +124,7 @@
   - Manual de procedimientos: Calidad aclara que pase de turno asistencial YA EXISTE desde 2016 — debe actualizarse (incluir rol supervisora/coordinadora + personal de apoyo + instrumentos). Borrador renombrado como 'insumo-actualizacion-pase-turno-BORRADOR.md'.
   - Hemoderivados: Patricia redacto complemento al procedimiento vigente (pendiente compartir archivo al repo).
 - **Problemas / bloqueos:** Ninguno.
-- **Discrepancia detectada:** dotacion 4to C y 5to C tarde/noche — Patricia reporta 2 enf (1 Lic + 1 Aux) vs. documento vigente `dotacion-turnos-cobertura.md` que dice 3 (2 Lic + 1 Aux). Pendiente confirmar cual es correcto y actualizar si corresponde.
+- **Discrepancia CERRADA mismo dia:** Patricia confirma que la dotacion correcta del 4to C y 5to C tarde/noche es **3 enfermeras (2 Lic + 1 Aux)** — coincide con el documento vigente. No requiere actualizacion.
 - **Siguiente paso:** sab 25 abr (Lorena trabaja sab) / lun 27 abr — continuar Grupo 5 con otros pisos. Considerar pase tarde→noche del 4to C o 6to C. Reunion A8 lun 27 14:00 con Calidad.
 - **Evidencia:** `turno-2026-04-24-pase-noche-manana-5toC.md`
 
