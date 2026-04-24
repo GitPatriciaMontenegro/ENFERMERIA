@@ -23,7 +23,7 @@ Estas preguntas surgieron de la revision de calidad del 15 abr. Patricia debe re
 | # | Que | Quien | Cuando | Que pasa si no | Estado |
 |---|-----|-------|--------|----------------|--------|
 | A1 | Trabajar con Lotty el diseno operativo de los Espacios de Contencion (Categoria 3) | Patricia + Lotty | Por agendar | Categoria 3 queda resuelta en papel pero sin mecanismo operativo | ABIERTA — 17 abr 2026 |
-| A2 | Cerrar las 2 personas faltantes del Grupo 1 (documentadas 6 de ~8) | Patricia + Lorena | Lun 20 abr si hay oportunidad | Queda incompleto el lote y se acumula para Grupo 2 | ABIERTA — 17 abr 2026 |
+| A2 | Cerrar las 2 personas faltantes del Grupo 1 (documentadas 6 de ~8) | Patricia + Lorena | Lun 20 abr si hay oportunidad | Queda incompleto el lote y se acumula para Grupo 2 | ✅ CUMPLIDA Y SUPERADA — 24 abr. Pase noche→mañana 5to C sumo 4 personas nuevas (Vargas, Ruiz, Hurtado, Villarrubia). Acumulado 28/50. |
 | A3 | Arrancar documentacion del Grupo 2 Internacion (~8 personas) | Patricia + Lorena | Lun 20 abr 2026 | Se rompe el ritmo y se compromete la meta de 50 al 1 may | ✅ COMPLETADO 20 abr — 6 personas documentadas (4to Piso C), acumulado 12/50 |
 | A4 | Formalizar reglas faltantes: (a) postergacion toma medicacion; (b) doble registro bloquea dispensacion | Patricia (propone) + Lotty (revisa) | 23 abr | ✅ APROBADAS 23 abr — Lotty (RRHH + vision clinica). Ver pendientes institucionales P1–P5 en regla-doble-registro-dispensacion.md |
 | A5 | Agregar a Pedro Escobar (`VITALIASALUD`) como colaborador del repo ENFERMERIA | Patricia | Lo antes posible | Pedro no tiene visibilidad directa del repo de evidencia | ⏳ Instrucciones recibidas 23 abr — Patricia debe agregar a `VITALIASALUD` en Settings → Collaborators |
@@ -41,6 +41,10 @@ Estas preguntas surgieron de la revision de calidad del 15 abr. Patricia debe re
 - **Incidencia abierta al 20 abr:** doble registro de paciente bloqueando dispensacion. ✅ **RESUELTO el 20 abr a las 20:30** por Sistemas (~1 hora desde el escalamiento). Medicacion dispensada OK.
 - **Hallazgo 21 abr — incumplimiento de regla existente:** registro en expediente clinico NO se realizo en 2 instancias del 3er B (rechazo de baño + actividades del pase). Se reforzo con el personal del 3er B en el turno. Verificar efecto en proximos turnos (A7).
 - **Oportunidad 21 abr — actualizacion del manual de procedimientos:** incluir baño del paciente (horarios + justificacion turno mañana + criterios ante rechazo) en el manual que el equipo esta actualizando (A6).
+- **Input de Calidad (24 abr):** el procedimiento de pase de turno asistencial ya existe en el manual desde 2016 — debe ACTUALIZARSE (no crearse uno nuevo). Es transversal, debe incluir rol supervisora/coordinadora + personal de apoyo + instrumentos actualizados. Borrador renombrado como insumo para actualizacion.
+- **Buenas practicas documentadas 24 abr (5to C):** filtro ejemplar de medicacion (enfermera detecta medicacion no indicada antes de administrar) + comunicacion eficaz al residente/hospitalista (segundo caso del patron, confirma que funciona sostenido). Evidencia positiva para reportar al equipo y al manual.
+- **Discrepancia detectada 24 abr:** dotacion 4to C y 5to C tarde/noche — Patricia reporta 2 enf vs doc `dotacion-turnos-cobertura.md` que dice 3 enf. Confirmar y actualizar el documento si corresponde.
+- **Modalidad de observacion apoyada (24 abr):** relevamiento noche→mañana 5to C realizado por Maria Elena + Zuleidy con orientacion previa de Patricia. Modelo extensible para turnos no cubiertos presencialmente.
 
 ## Decisiones Cerradas
 

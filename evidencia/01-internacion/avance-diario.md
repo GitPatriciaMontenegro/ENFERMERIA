@@ -104,3 +104,28 @@
 - **Evidencia:** `turno-2026-04-22-tarde.md`
 
 ---
+
+### Fecha: 24/04/2026 (vie) — Dia habil 5 | Grupo 5 (parte 1) | 5to Piso C (pase noche→mañana)
+- **Personas documentadas hoy:** 7 (3 repetidas del 17 abr + 4 nuevas)
+- **Nuevas sumadas al acumulado:** 4 (Lic Claudia Vargas, Lic Melva Ruiz, Aux Gabriela Hurtado, Aux Yenny Villarrubia)
+- **A2 — cierre Grupo 1 / 5to C:** ✅ CUMPLIDA Y SUPERADA
+- **Pacientes atendidos en el turno:** 9
+- **Acumulado:** 28 / 50 (56%)
+- **Modalidad de observacion:** relevamiento apoyado por Maria Elena del Granado + Zuleidy (presentes en horario 07:30) con orientacion previa de Patricia. Modelo extensible para turnos no cubiertos presencialmente por Patricia.
+- **Que se hizo:**
+  - Pase noche→mañana del 5to Piso C documentado (complementa pase tarde→noche del 17 abr del mismo piso, con otro grupo).
+  - 3 actividades observadas, TODAS con cumplimiento:
+    1. Pase de turno con instrumentos + informacion registrada en expediente clinico.
+    2. **FILTRO EJEMPLAR — medicacion:** paciente solicita medicacion; enfermera revisa Kardex, detecta que no coincide con diagnostico; verifica en expediente digital; confirma que no estaba indicada. **Evita evento.** Caso ejemplar de barrera de seguridad funcionando.
+    3. Comunicacion eficaz: enfermera → residente → hospitalista → prescripcion → administracion. Segundo caso del mismo patron (primer caso: 21 abr 3er B) — patron confirmado.
+  - Registro en expediente: cumplido (contraste positivo con 21 abr 3er B grupo mañana, refuerza señal de A7).
+  - Patron rol auxiliar: 3 observaciones consecutivas sin desvios.
+  - Agenda con Calidad: Julia confirmo recepcion del correo; reunion A8 lun 27 abr 14:00 confirmada (Ma Elena + Patricia + Zuleidy + Julia).
+  - Manual de procedimientos: Calidad aclara que pase de turno asistencial YA EXISTE desde 2016 — debe actualizarse (incluir rol supervisora/coordinadora + personal de apoyo + instrumentos). Borrador renombrado como 'insumo-actualizacion-pase-turno-BORRADOR.md'.
+  - Hemoderivados: Patricia redacto complemento al procedimiento vigente (pendiente compartir archivo al repo).
+- **Problemas / bloqueos:** Ninguno.
+- **Discrepancia detectada:** dotacion 4to C y 5to C tarde/noche — Patricia reporta 2 enf (1 Lic + 1 Aux) vs. documento vigente `dotacion-turnos-cobertura.md` que dice 3 (2 Lic + 1 Aux). Pendiente confirmar cual es correcto y actualizar si corresponde.
+- **Siguiente paso:** sab 25 abr (Lorena trabaja sab) / lun 27 abr — continuar Grupo 5 con otros pisos. Considerar pase tarde→noche del 4to C o 6to C. Reunion A8 lun 27 14:00 con Calidad.
+- **Evidencia:** `turno-2026-04-24-pase-noche-manana-5toC.md`
+
+---
