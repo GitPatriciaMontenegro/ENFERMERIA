@@ -129,3 +129,29 @@
 - **Evidencia:** `turno-2026-04-24-pase-noche-manana-5toC.md`
 
 ---
+
+### Fecha: 27/04/2026 (lun) — Dia habil 6 | Grupo 5 (parte 2) | 5to Piso C (pase noche→mañana)
+- **Personas documentadas hoy:** 7 (TODAS nuevas)
+- **Pacientes atendidos en el turno:** 7
+- **Acumulado:** **35 / 50 (70%)**
+- **Que se hizo:**
+  - Pase noche→mañana del 5to C documentado con 7 personas distintas (3 salientes + 4 entrantes).
+  - Salientes noche: Lic Maria Yossimy Medina, Lic Maria Consuelo Carrasco, Aux Mariela Condori.
+  - Entrantes mañana: Lic Yovana Save (Saye) Ayala, Lic Alison Velarde Salgado, Aux Leydy Paola Irala, Aux Erika Escarlet Sciaroni.
+  - 1 actividad observada: pase de turno con todos los instrumentos, participacion activa del personal, **verificacion explicita en expedientes clinicos** de la informacion mencionada en el pase.
+  - Tercer pase consecutivo del 5to C cumpliendo la regla de registro en expediente — refuerza la lectura de A7 (problema del 21 abr era del grupo mañana del 3er B, no transversal al piso ni al rol).
+  - Patron rol auxiliar: 4 dias consecutivos sin desvios (21, 22, 24, 27 abr) — tendencia consolidada.
+  - Cobertura 5to C: 17 personas distintas documentadas en 3 pases (17 abr + 24 abr + 27 abr).
+- **Reunion A8 ITAES — completada en paralelo:** Patricia + Maria Elena + Zuleidy + Julia, 14:00-16:30 (2.5h). Plan: trabajar requisitos ITAES + plan de mejoras del mie 29 abr al vie 8 may.
+- **Avances en manual de procedimientos (27 abr):**
+  - Pase de turno actualizado como TRANSVERSAL con 3 secciones: (a) enfermeria asistencial, (b) gestoras administrativas, (c) personal de apoyo al paciente. Pendiente validacion de Monica Soruco para seccion gestoras.
+  - Hemoderivados integrado al manual a continuacion del procedimiento de administracion endovenosa. Contenido respaldado por el Servicio Transfusional.
+- **Decisiones operativas 27 abr:**
+  - Calendario: ITAES (mie 29 abr al vie 8 may) se ejecutara EN PARALELO con observaciones de Internacion (Lorena sigue su cronograma de Fase 3).
+  - A1 (Espacios de Contencion con Lotty): no se avanzo hoy aunque Lotty volvio presencial. Re-agendar esta semana.
+  - A9 (malla de reportes Julia): aun no enviada; Julia coordinara con su equipo y enviara hasta el mie 29 abr.
+- **Problemas / bloqueos:** Ninguno.
+- **Siguiente paso:** mar 28 abr — continuar Fase 3 (Grupo 6 segun plan). Mie 29 abr arranque de ITAES en paralelo + Grupo 7 + cierre Fase 3.
+- **Evidencia:** `turno-2026-04-27-pase-noche-manana-5toC.md`
+
+---
