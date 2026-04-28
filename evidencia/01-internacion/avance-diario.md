@@ -156,3 +156,23 @@
 - **Evidencia:** `turno-2026-04-27-pase-noche-manana-5toC.md`
 
 ---
+
+### Fecha: 28/04/2026 (mar) — Dia habil 7 (extendido) | Observacion de seguimiento A7 | 3er Piso B (pase mañana→tarde)
+- **Modelo de cobertura:** Patricia con urgencia familiar — apoyo en sitio de **Zuleidy** + coordinacion remota de Patricia.
+- **Personas documentadas hoy:** 4 (todas ya conocidas — observacion de seguimiento al grupo del 21 abr).
+- **Personas NUEVAS sumadas al acumulado:** 0.
+- **Pacientes atendidos en el turno:** 5.
+- **Acumulado:** 35 / 50 (70%) — sin cambio.
+- **Que se hizo:**
+  - Observacion del pase mañana→tarde del 3er B con el MISMO grupo del 21 abr (Lic Gisela Vargas + Aux Arminda Mojica como salientes; Lic Virginia Matta + Aux Rosario Cespedes como entrantes).
+  - 1 actividad observada: pase de turno con cumplimiento de procedimientos + instrumentos + **mejora explicita en los registros de enfermeria** (actividades con hora).
+- **HALLAZGO CLAVE — A7 CERRADA con veredicto POSITIVO:**
+  - El grupo mañana del 3er B que el 21 abr incumplia la regla de registro hoy 28 abr cumple Y mejora la trazabilidad.
+  - Refuerzo en sitio aplicado el 21 abr funciono.
+  - Cronologia: 21 abr ⚠️ → 22 abr ✅ (otro grupo) → 24 abr ✅ (otro grupo) → 27 abr ✅ (otro grupo) → **28 abr ✅ MISMO grupo + mejora**.
+- **Patron rol auxiliar:** 5 observaciones consecutivas sin desvios (21, 22, 24, 27, 28 abr) — tendencia firmemente consolidada.
+- **Problemas / bloqueos:** Ninguno.
+- **Siguiente paso:** mie 29 abr — esperar malla de reportes de Julia (A9). Patricia con pausa parcial 28-29 abr + libre 30 + feriado 1 may. Retorno presencial: lun 5 may con Grupo 6.
+- **Evidencia:** `turno-2026-04-28-3erB-pase-manana-tarde.md`
+
+---
