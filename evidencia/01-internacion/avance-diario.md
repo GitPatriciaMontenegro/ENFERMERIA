@@ -131,6 +131,7 @@
 ---
 
 ### Fecha: 27/04/2026 (lun) — Dia habil 6 | Grupo 5 (parte 2) | 5to Piso C (pase noche→mañana)
+- **Modelo de cobertura:** Patricia con urgencia familiar (27–29 abr) — apoyo en sitio de **Zuleidy** para la observacion del pase 07:30 + coordinacion remota de Patricia para pendientes (manual, ITAES, registro).
 - **Personas documentadas hoy:** 7 (TODAS nuevas)
 - **Pacientes atendidos en el turno:** 7
 - **Acumulado:** **35 / 50 (70%)**

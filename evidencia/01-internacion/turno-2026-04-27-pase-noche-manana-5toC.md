@@ -5,10 +5,11 @@
 > Servicio: Internacion General — 5to Piso C
 > Continua la cobertura del 5to C iniciada el 17 abr (Grupo 1 — pase tarde→noche) y 24 abr (Grupo 5 parte 1 — pase noche→mañana, otro grupo)
 
-### Relevamiento (a confirmar con Patricia)
+### Relevamiento — modelo de observacion apoyada
 
-- **Modalidad:** observacion en el pase de las 07:30. Patricia reporta los datos.
-- **Pendiente confirmar:** observadoras presentes en el pase (Maria Elena? Zuleidy? otra dupla?).
+- **Observadora en turno:** Zuleidy (presente en el horario 07:30).
+- **Coordinacion remota:** Patricia Montenegro define el foco y los criterios; coordina con Zuleidy desde la modalidad remota dado que Patricia esta con urgencia familiar (27–29 abr).
+- **Por que:** consistente con el modelo estrenado el 24 abr (Maria Elena + Zuleidy). Permite continuidad de la documentacion incluso cuando la coordinadora no esta presencial. Patricia recibe los datos del pase y los registra.
 
 ---
 

@@ -2,8 +2,9 @@
 
 > Dia habil 6 de Fase 3 + arranque del proyecto ITAES.
 > Servicio observado: Internacion General — 5to Piso C (pase noche→mañana, parte 2 del Grupo 5).
+> **Modelo de cobertura:** Patricia con urgencia familiar (27–29 abr, segun cronograma actualizado por Lotty) → apoyo en sitio de **Zuleidy** para la observacion del pase 07:30 + coordinacion remota de Patricia para los pendientes (manual, ITAES, registro).
 > Para: Lotty Paniagua (GitLottyPaniagua) + Pedro Escobar (VITALIASALUD) + Maria Elena del Granado.
-> Autor: Patricia Montenegro.
+> Autor: Patricia Montenegro (coordinacion remota) + Zuleidy (observacion en sitio).
 
 ---
 
