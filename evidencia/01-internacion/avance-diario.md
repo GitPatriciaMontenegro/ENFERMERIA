@@ -171,8 +171,11 @@
   - Refuerzo en sitio aplicado el 21 abr funciono.
   - Cronologia: 21 abr ⚠️ → 22 abr ✅ (otro grupo) → 24 abr ✅ (otro grupo) → 27 abr ✅ (otro grupo) → **28 abr ✅ MISMO grupo + mejora**.
 - **Patron rol auxiliar:** 5 observaciones consecutivas sin desvios (21, 22, 24, 27, 28 abr) — tendencia firmemente consolidada.
+- **Avances en manual via remota (28 abr):**
+  - Procedimiento de pase de turno (transversal) actualizado y **compartido con Julia (Calidad)** quien hara de puente con areas afectadas (gestoras administrativas / Monica Soruco). Cambio de flujo respecto al plan inicial: A11 ahora va via Calidad.
+  - Patricia toma el carril de **personal de apoyo al paciente** (A13 nueva): trabajara la actualizacion del instrumento de pase de turno + su aplicacion practica.
 - **Problemas / bloqueos:** Ninguno.
-- **Siguiente paso:** mie 29 abr — esperar malla de reportes de Julia (A9). Patricia con pausa parcial 28-29 abr + libre 30 + feriado 1 may. Retorno presencial: lun 5 may con Grupo 6.
+- **Siguiente paso:** **mie 29 abr — Patricia retoma actividades presenciales** (vuelve 1 dia antes de lo planificado en el cronograma original de Lotty). Plan mie 29 abr: Grupo 6 Internacion + arranque ITAES en paralelo + esperar malla de reportes de Julia (A9). Jue 30: Patricia no asiste (jueves no habil). Vie 1 may: feriado. Sab 2 may: Patricia presencial. Lun 5 may: ritmo normal.
 - **Evidencia:** `turno-2026-04-28-3erB-pase-manana-tarde.md`
 
 ---
