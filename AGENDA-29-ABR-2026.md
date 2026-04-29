@@ -1,58 +1,73 @@
 # Agenda — mie 29 abr 2026 | Patricia Montenegro
 
-> **Retorno presencial despues de urgencia familiar (28 abr).**
-> Horario de trabajo: 14:00 – 19:30.
-> Modalidad: presencial en clinica.
+> ⚠️ **Reacondicionada — 29 abr.** Patricia con reagudizacion del problema familiar — NO retoma presencial hoy.
+> **Modalidad del dia:** remoto + apoyo Zuleidy en sitio.
+> **Itar y A13 pospuestos un dia.**
 
 ---
 
-## Contexto del dia
-
-- **Dia habil 8 de Fase 3** (Internacion) — meta del dia: arrancar **Grupo 6** (~8 personas).
-- **Arranque del proyecto ITAES** (A10) en paralelo con observaciones de Internacion.
-- **Inbox pendiente:** revisar respuestas y avances generados durante los 2 dias de pausa parcial.
-
----
-
-## Bloques propuestos
+## Plan revisado del dia
 
 | Hora | Bloque | Detalle | Estado |
 |------|--------|---------|--------|
-| 14:00 – 14:15 | **Pase de novedades con Maria Elena** | Rutina diaria. Incluir: actualizacion del retorno, novedades de los 2 dias de pausa, observaciones de Zuleidy del 27 y 28 abr. | 📋 |
-| 14:15 – 14:35 | **Inbox / seguimientos externos** | (1) Verificar si Julia envio la malla de reportes (A9). (2) WhatsApp a Lotty para re-agendar A1 (Espacios de Contencion). (3) Confirmar con Julia el avance de la revision multi-area del pase de turno transversal (A11). | 📋 |
-| 14:35 – 16:00 | **ITAES — sesion 1** (1h 25m) | Arranque del proyecto ITAES con Maria Elena + Zuleidy + Julia. Empezar por requisitos prioritarios definidos en la reunion del 27 abr. | 🔵 |
-| 16:00 – 18:00 | **Observacion piso + Grupo 6 Internacion** | Definir piso/turno con Maria Elena segun ocupacion del dia. Sugerencia: aprovechar pisos donde quedan personas no documentadas (4to C pase mañana→tarde / 6to C pase mañana→tarde — esos pases siguen sin cubrir). | 📋 |
-| 18:00 – 18:45 | **Personal de apoyo al paciente — A13 sesion 1** | Primera sesion de trabajo: identificar al equipo, ver el instrumento que estan usando hoy, definir foco de actualizacion. | 🔵 |
-| 18:45 – 19:30 | **Cierre + pase de turno 19:30 + carga registro** | Documentar la jornada en el repo. Resumen del dia. | 📋 |
+| Mañana / dia | **Observacion en sitio — Zuleidy** | Coordinada con Patricia. Zuleidy hace la observacion del turno (piso/pase a definir entre ellas). | 🟢 Coordinado |
+| Cuando llegue la data | **Patricia carga datos al repo** | Recibe info de Zuleidy y registra en archivo del turno + avance-diario. Modalidad remota. | 🔵 Pendiente |
+| — | ~~ITAES sesion 1~~ | **POSPUESTA** — se retoma jue 30 abr por la mañana con Julia + Maria Elena + Zuleidy. | ⏭ Movida a 30 abr |
+| — | ~~A13 personal de apoyo~~ | **POSPUESTA** — requiere presencial. Reagendar cuando Patricia retome. | ⏭ Sin fecha |
+| — | ~~Pase de novedades 14:00 con Maria Elena~~ | No aplica (Patricia no presencial). Si hay temas urgentes: WhatsApp. | — |
 
 ---
 
-## Pendientes que vale la pena cerrar hoy
+## Lo que NO se hara hoy
 
-| # | Pendiente | Accion concreta |
-|---|-----------|-----------------|
-| A1 | Espacios de Contencion con Lotty | Mandar WhatsApp a Lotty para agendar — sugerir vie 1 may o sab 2 may |
-| A9 | Malla de reportes Julia | Verificar inbox / preguntar a Julia |
-| A11 | Pase de turno transversal | Confirmar con Julia que la revision multi-area arranco |
-| A13 | Personal de apoyo | Arrancar sesion 1 (item del bloque 18:00-18:45) |
+- Pase de novedades presencial 14:00.
+- ITAES (movido a jue 30 mañana).
+- Observacion piso por Patricia.
+- A13 personal de apoyo.
 
 ---
 
-## Recordatorios
+## Lo que SI se hara hoy
 
-- **Hemoderivados (A12):** ya integrado al manual. Cuando se reuna con el equipo del manual, mencionar para validacion final.
-- **Pedro (A5):** la invitacion a VITALIASALUD para el repo ENFERMERIA sigue pendiente de aceptacion. Si pasa a aceptarla hoy, mencionar en el resumen.
-- **Modelo de apoyo (Zuleidy):** funciono 2 dias consecutivos. Vale la pena agradecer/comentar con Maria Elena el aporte para futuras ausencias.
-- **A7 cerrada:** mencionar a Lotty cuando se vean — buena evidencia del valor del piloto (refuerzo en sitio funciono y mejoro trazabilidad).
+- Zuleidy observa un pase de turno (a coordinar entre ellas).
+- Patricia carga los datos al repo cuando los reciba (remoto).
 
 ---
 
-## Cosas pendientes que quedan para los proximos dias
+## Para mañana — jue 30 abr 2026 (excepcion al jueves no habil)
 
-- **Sab 2 may:** continuar Fase 3 — completar Grupo 6 si no se cierra hoy + arrancar Grupo 7.
-- **Lun 5 may – mar 6 may:** cierre Fase 3 (meta 50/50).
-- **Toda la semana del 29 abr al 8 may:** trabajo ITAES en paralelo (segun A10).
+| Hora | Bloque |
+|------|--------|
+| Por la mañana | **Sesion ITAES con Julia (Calidad) + Maria Elena + Zuleidy** — arranque del proyecto ITAES (A10). |
+
+Importante: jueves Patricia normalmente no asiste, pero esta sesion es la excepcion confirmada hoy.
 
 ---
 
-*Agenda preparada: 28 abr 2026 (anoche). Patricia Montenegro + Claude.*
+## Comunicaciones cortas que conviene mandar hoy (5 min total)
+
+| A quien | Mensaje sugerido |
+|---------|------------------|
+| Lotty | "Se me reagudizo tema familiar, no estaré presencial. Re-agendamos A1 (Espacios de Contencion) cuando pueda." |
+| Julia | "Hoy no podre. Confirmamos para mañana jueves por la mañana ITAES con Ma Elena y Zuleidy. ¿Te queda?" |
+
+> *Patricia decide si los manda hoy o no. Sirven para que Lotty / Julia no esperen sin saber.*
+
+---
+
+## Estado del proyecto al cierre del dia
+
+- **Acumulado Fase 3:** 35/50 (70%) — sin cambio (a menos que la observacion de Zuleidy sume nuevas).
+- **A7:** ✅ CERRADA 28 abr.
+- **A10 ITAES:** se mueve 1 dia (arranque jue 30 abr en lugar de mie 29).
+- **A13 personal de apoyo:** sin fecha — esperar retorno de Patricia.
+
+---
+
+## Recordatorio operativo
+
+Lorena trabaja lun, mar, mie, vie y sab. Hoy mie 29 abr es dia laboral de Lorena — pero como el piloto se trabaja con Patricia coordinando, lo que pase hoy depende del modelo de apoyo Zuleidy. Si Lorena queria apoyar tambien, coordinar via Patricia.
+
+---
+
+*Agenda reacondicionada: 29 abr 2026 (mañana). Patricia Montenegro + Claude.*

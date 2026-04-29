@@ -175,7 +175,31 @@
   - Procedimiento de pase de turno (transversal) actualizado y **compartido con Julia (Calidad)** quien hara de puente con areas afectadas (gestoras administrativas / Monica Soruco). Cambio de flujo respecto al plan inicial: A11 ahora va via Calidad.
   - Patricia toma el carril de **personal de apoyo al paciente** (A13 nueva): trabajara la actualizacion del instrumento de pase de turno + su aplicacion practica.
 - **Problemas / bloqueos:** Ninguno.
-- **Siguiente paso:** **mie 29 abr — Patricia retoma actividades presenciales** (vuelve 1 dia antes de lo planificado en el cronograma original de Lotty). Plan mie 29 abr: Grupo 6 Internacion + arranque ITAES en paralelo + esperar malla de reportes de Julia (A9). Jue 30: Patricia no asiste (jueves no habil). Vie 1 may: feriado. Sab 2 may: Patricia presencial. Lun 5 may: ritmo normal.
+
+---
+
+### Fecha: 29/04/2026 (mie) — Dia habil 8 | Grupo 6 (parte 1) | 5to Piso C (pase noche→mañana)
+- **Modelo de cobertura:** Patricia con reagudizacion del problema familiar — NO presencial. **Apoyo en sitio de Zuleidy + Patricia carga al repo desde remoto.** 4to dia consecutivo del modelo de apoyo.
+- **Personas documentadas hoy:** 6 (3 nuevas + 3 ya conocidas del 24 abr).
+- **Personas NUEVAS sumadas al acumulado:** 3 (Lic Cielo Morales, Lic Marina Benavide, Aux Nidia Caballero).
+- **Acumulado:** **38 / 50 (76%)**.
+- **Que se hizo:**
+  - Pase noche→mañana del 5to C documentado: Lic Morales + Lic Benavide + Aux Caballero (salientes); Lic Vargas + Lic Ruiz + Aux Villarrubia (entrantes).
+  - 1 actividad observada: pase de turno con instrumentos completos (Lic y Aux) + **apoyo del Sistema institucional** + **registros con hora vs. actividad realizada**.
+  - **Hallazgo nuevo:** uso del Sistema institucional como apoyo del pase de turno — asegura seguimiento. Conviene capturarlo en el manual actualizado de pase de turno (A11) y mencionarlo a Julia para ITAES.
+  - Cobertura del 5to C consolidada: 20 personas distintas en 4 pases (17 + 24 + 27 + 29 abr).
+  - Patron rol auxiliar: 6 observaciones consecutivas sin desvios.
+- **Comunicacion:** Patricia avise a Lotty y a Julia la reorganizacion de actividades.
+- **Decisiones operativas 29 abr:**
+  - ITAES (A10): pospuesto un dia → arranque jue 30 abr por la mañana con Julia + Maria Elena + Zuleidy.
+  - A13 personal de apoyo: sin fecha, esperar retorno de Patricia.
+  - A1 con Lotty: sigue pendiente de reagendar.
+- **Problemas / bloqueos:** Ninguno.
+- **Siguiente paso:** jue 30 abr mañana — sesion ITAES presencial. Vie 1 may feriado. Sab 2 may por definir.
+- **Evidencia:** `turno-2026-04-29-pase-noche-manana-5toC.md`
+
+---
+- **Siguiente paso revisado 29 abr:** Patricia con reagudizacion del problema familiar — NO retoma presencial mie 29. Continua modelo apoyo Zuleidy + carga remota Patricia. ITAES movido a jue 30 abr por la mañana. A13 personal de apoyo sin fecha. Patricia avise a Lotty y Julia la reorganizacion.
 - **Evidencia:** `turno-2026-04-28-3erB-pase-manana-tarde.md`
 
 ---
