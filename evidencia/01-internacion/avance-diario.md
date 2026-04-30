@@ -199,6 +199,28 @@
 - **Evidencia:** `turno-2026-04-29-pase-noche-manana-5toC.md`
 
 ---
+
+### Fecha: 30/04/2026 (jue, excepcion al jueves no habil) — Dia habil 9 | Grupo 6 (parte 2) | Recuperacion + sesion ITAES
+- **Modalidad:** Patricia presencial desde la mañana (excepcion al jueves no habil) — sesion ITAES + observacion + revision de procedimientos.
+- **Hallazgo de alcance:** al revisar la planilla de las 50 personas, se confirmo que **Recuperacion forma parte de Internacion General** segun la planilla institucional (antes se trataba como area separada). Recuperacion se documenta hoy por primera vez.
+- **Personas documentadas hoy:** 2 (TODAS nuevas: Lic Gabriela Miranda + Lic Guisela Pena).
+- **Personas NUEVAS al acumulado:** 2.
+- **Acumulado:** **40 / 50 (80%)**.
+- **Que se hizo:**
+  - **Observacion en Recuperacion** (pase noche→mañana): pase verbal con instrumento estandar. 3 recuperaciones de cirugias de emergencia durante la noche, sin intercurrencias.
+  - **Sesion ITAES (A10):** revision de formularios ITAES de enfermeria + Internacion general con Julia + Maria Elena + Zuleidy.
+  - **Revision con Julia del procedimiento de pase de turno** — DECISION CLAVE: el procedimiento del manual de enfermeria queda como **SOLO ASISTENCIAL** (incluye personal de apoyo). Se RETIRA la parte administrativa de gestoras. Calidad asume la responsabilidad de **crear un procedimiento NUEVO de pase de turno administrativo aparte** (A15 nueva).
+- **Pendientes identificados hoy:**
+  - **A14 nueva:** revision del manual de organizacion del area de Internacion General — pendiente identificado en sesion ITAES.
+  - **A15 nueva:** procedimiento administrativo de pase de turno (responsabilidad de Calidad, Patricia solo seguimiento informal).
+  - **A11 redefinida:** alcance del pase de turno asistencial reducido. Ya no aplica validacion de Monica Soruco para este procedimiento.
+- **A9 (malla de eventos):** Julia y su equipo revisan por la tarde de hoy 30 abr — pendiente recibir respuesta.
+- **Patron rol auxiliar:** no aplica hoy (no se documentaron auxiliares en Recuperacion).
+- **Problemas / bloqueos:** Ninguno.
+- **Siguiente paso:** vie 1 may feriado. Sab 2 may por definir. Continuar ITAES (A10) durante la primera semana de mayo. Esperar respuesta de Julia (A9) durante la tarde de hoy.
+- **Evidencia:** `turno-2026-04-30-recuperacion.md`
+
+---
 - **Siguiente paso revisado 29 abr:** Patricia con reagudizacion del problema familiar — NO retoma presencial mie 29. Continua modelo apoyo Zuleidy + carga remota Patricia. ITAES movido a jue 30 abr por la mañana. A13 personal de apoyo sin fecha. Patricia avise a Lotty y Julia la reorganizacion.
 - **Evidencia:** `turno-2026-04-28-3erB-pase-manana-tarde.md`
 
