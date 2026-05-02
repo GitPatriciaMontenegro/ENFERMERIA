@@ -221,6 +221,31 @@
 - **Evidencia:** `turno-2026-04-30-recuperacion.md`
 
 ---
+
+### Fecha: 02/05/2026 (sab) — Dia habil 10 | Trabajo en paralelo Patricia + Zuleidy
+- **Modalidad:** Patricia presencial todo el dia + Zuleidy en sitio. Trabajo distribuido en 4to C (Zuleidy), 6to C (Patricia), Recuperacion (Patricia), reunion personal de apoyo (Patricia).
+- **Personas documentadas hoy:** 11 distintas (6 en 4to C + 4 en 6to C + 1 en Recuperacion).
+- **Personas NUEVAS al acumulado:** **2** — Aux Juana Monica Ortega (6to C) + Lic Carmen Gabriela Montaño (Recuperacion).
+- **Acumulado:** **42 / 50 (84%)**.
+- **Pacientes atendidos:** 7 (4to C) + 7 (6to C) + 8 procedimientos quirurgicos en Recuperacion = ~14 pacientes (sin doble contar) + 8 cirugias.
+- **Que se hizo:**
+  - **4to C pase noche→mañana** (apoyo Zuleidy): 6 documentadas (todas ya conocidas — fuerte rotacion entre pisos). Pase con Sistema institucional + mejoras en registros sostenidas. Ocupacion 58%. Reemplazo consensuado: Lic Arevalo cubrio turno de Lic Noemi Poma (Poma sigue sin documentar).
+  - **6to C pase noche→mañana** (Patricia): 4 documentadas (1 nueva: Aux Monica Ortega). **Hallazgo nuevo — buena practica:** reorganizacion adaptativa del equipo por ocupacion 100%, saliente apoya con timbres (2 oportunidades) mientras entrante asume el piso.
+  - **Recuperacion turno mañana** (Patricia): Lic Carmen Montaño (NUEVA). 8 procedimientos en el turno (6 cirugias programadas + 2 cesareas de emergencia). **Buena practica:** apoyo cruzado de personal del 4to C por demanda imprevista. Recepcion post-quirurgica + ingreso desde Emergencia con protocolos completos (manilla, documentacion, consentimiento, via).
+  - **A13 reunion con personal de apoyo:** formato **V1 de pase de turno consensuado**. Piloto arranca **lun 5 may**. Estructura: 6 bloques x 3 turnos. Documento original en `RAIZEN 5/ROLES Y BOLETAS/APOYO AL PACIENTE/V1 PASE DE TURNO PERS APOYO.docx`, transcripcion en `evidencia/00-reglas-generales/instrumento-pase-turno-personal-apoyo-V1.md`.
+- **Patron rol auxiliar:** sin desvios hoy — tendencia consolidada (>=7 observaciones consecutivas).
+- **Hallazgos para reportar a Lotty / equipo del manual:**
+  - **Buena practica institucional — reorganizacion adaptativa:** observada hoy en 2 areas distintas (6to C por ocupacion + Recuperacion por demanda imprevista). Conviene capturar como practica esperada en el manual.
+  - **Rotacion entre pisos confirmada:** documentar pase no garantiza nuevas personas. Acumulado crece mas lento de lo planificado.
+- **Problemas / bloqueos:** Ninguno.
+- **Siguiente paso:** lun 5 may — Grupo 8 (6to C pase mañana→tarde + cerrar Recuperacion 1 persona). Arranca piloto formato V1 personal de apoyo.
+- **Evidencia:**
+  - `turno-2026-05-02-4toC-pase-noche-manana.md`
+  - `turno-2026-05-02-6toC-pase-noche-manana.md`
+  - `turno-2026-05-02-recuperacion.md`
+  - `instrumento-pase-turno-personal-apoyo-V1.md` (en 00-reglas-generales)
+
+---
 - **Siguiente paso revisado 29 abr:** Patricia con reagudizacion del problema familiar — NO retoma presencial mie 29. Continua modelo apoyo Zuleidy + carga remota Patricia. ITAES movido a jue 30 abr por la mañana. A13 personal de apoyo sin fecha. Patricia avise a Lotty y Julia la reorganizacion.
 - **Evidencia:** `turno-2026-04-28-3erB-pase-manana-tarde.md`
 
