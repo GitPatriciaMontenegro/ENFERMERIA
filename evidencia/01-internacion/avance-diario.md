@@ -246,6 +246,34 @@
   - `instrumento-pase-turno-personal-apoyo-V1.md` (en 00-reglas-generales)
 
 ---
+
+### Fecha: 05/05/2026 (lun) — Dia habil 11 | Patricia presencial + Zuleidy en sitio
+- **Personas documentadas hoy:** 8 distintas (6 en 4to C + 2 en Recuperacion).
+- **Personas NUEVAS al acumulado:** **4** — Aux Wendy Soto + Lic Laura Gonzales + Lic Jenifer Rojas (4to C) + Lic Raquel Vega (Recuperacion).
+- **Acumulado:** **46 / 50 (92%)** — coincide con la meta proyectada para el cierre del lun.
+- **Recuperacion:** ✅ **COMPLETA** (4 de 4 documentadas).
+- **Pacientes:** 4to C tarde→noche con 12 pacientes + 2 ingresos. Recuperacion: paciente postquirurgica inmediata de mastectomia.
+- **Que se hizo:**
+  - **Pase de novedades con Maria Elena:** analisis de un **NPS derivado por Dra Castedo** sobre trato de auxiliar de enfermeria en area de **Imagen**. Programada reunion **mar 6 may** con la auxiliar para analizar lo sucedido + plan de mejoras + seguimiento y cierre. Caso de **escalamiento a coordinacion** (A17).
+  - **Piloto V1 personal de apoyo arranco hoy** (A23). Por la mañana el lider del equipo de apoyo socializo el instrumento con todo el turno y despejo dudas. Desde mar 6 may van solos. **Plan de acompañamiento:** lider en mañana, Patricia en tarde, remoto en noche (ingreso 22:00).
+  - **Recuperacion pase tarde→noche** (apoyo Zuleidy): Lic Miranda → Lic Vega (NUEVA). Llegada anticipada de Vega 19:20 para verificar material y cubiculos antes del pase formal — **buena practica registrada**. Pase con paciente postquirurgica inmediata mastectomia, instrumentos completos.
+  - **4to C pase tarde→noche** (Patricia presencial): trabajo con remanentes — 6 documentadas (3 nuevas: Soto, Gonzales, Rojas). 12 pacientes + 2 ingresos durante la tarde con flujo enfermera → residente → hospitalista → indicaciones → programacion farmacia sin intercurrencias.
+  - **ITAES sesion 2** con Maria Elena + Zuleidy + Julia: trabajo con formularios facilitados por Julia, devolucion por correo. Tareas identificadas:
+    - A19 — Verificacion del File de Patricia.
+    - A20 — Actualizacion del MOF de Internacion (Julia se hace cargo).
+    - A21 — Procedimiento de Carro de Paro: enfermeria ya actualizo, devuelto a Julia + Juan Carlos Tapia (Farmacia) + Maria Elena para revision.
+    - A22 — Pendiente que Julia comparta planillas HC de ITAES para verificar cumplimiento de enfermeria en HC digital.
+  - **Escalas de dependencia con Zuleidy** (A18): hoy revisaron bibliografia. Esperan concluir mañana mar 6 may y compartir con supervisoras para implementacion.
+- **Buenas practicas registradas hoy:**
+  - **Llegada anticipada al area antes del pase** — Lic Vega 19:20 (10 min antes). Asegura que el turno noche arranque con area lista.
+  - **Comunicacion eficaz residente/hospitalista** sostenida (4to C): patron consolidado del piloto.
+- **Problemas / bloqueos:** Ninguno.
+- **Siguiente paso:** mar 6 may — Personas remanentes (~4) + arrancar consolidacion → meta 50/50. Reunion NPS Imagen (A17). Conclusion escalas de dependencia (A18). Acompañamiento piloto V1 turno tarde.
+- **Evidencia:**
+  - `turno-2026-05-05-recuperacion-tarde-noche.md`
+  - `turno-2026-05-05-4toC-tarde-noche.md`
+
+---
 - **Siguiente paso revisado 29 abr:** Patricia con reagudizacion del problema familiar — NO retoma presencial mie 29. Continua modelo apoyo Zuleidy + carga remota Patricia. ITAES movido a jue 30 abr por la mañana. A13 personal de apoyo sin fecha. Patricia avise a Lotty y Julia la reorganizacion.
 - **Evidencia:** `turno-2026-04-28-3erB-pase-manana-tarde.md`
 
